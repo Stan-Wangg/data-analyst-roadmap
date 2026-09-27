@@ -1,0 +1,813 @@
+order_id,order_date,customer_name,region,category,product,quantity,unit_price,sales_channel
+FW-10803,2025-10-20,Ethan Nguyen,South,Home,Wall Shelf Set,2,42.0,Marketplace
+FW-11093,2/19/2026,Tara Davis,South,Kitchen,Electric Kettle,3,52.0,Social
+FW-11144,"May 18, 2026",Ken Campbell,East,Electronics,Laptop Stand Aluminum,4,42.0,Website
+FW-11001,"Jan 3, 2026",Chloe Wilson,West,Kitchen,Spice Rack Carousel,1,33.0,Website
+FW-10629,8/7/2025,Maria Baker,South,Electronics,Noise-Isolating Earbuds,2,45.0,Website
+FW-10874,10/23/2025,Sofia Anderson,South,Office,Standing Desk Riser,,89.0,Website
+FW-11265,2026-04-17,Ken Lee,South,Kitchen,Cast Iron Skillet 12in,2,44.0,Social
+FW-11165,4/4/2026,Priya Garcia,East,Electronics,Webcam 1080p,2,59.0,Website
+FW-10713,12/20/2025,Maria Taylor,West,electronics,Wireless Charging Pad,1,29.0,Marketplace
+FW-10530,9/18/2025,Hannah Garcia,Midwest,kitchen,Knife Block Set,2,95.0,Website
+FW-10965,"Feb 7, 2026",Sofia Baker,West,HOME,Wall Shelf Set,1,42.0,Marketplace
+FW-10618,9/30/2025,Wei Anderson,East,Electronics,Cable Management Kit,3,18.0,Social
+FW-10973,"Jan 19, 2026",Ethan Baker,East,Home,Storage Ottoman,3,89.0,Website
+FW-10551,"Aug 12, 2025",Wei Baker,East,Office,Monitor Arm,3, 45.0 ,Website
+FW-11046,2026-03-12,Amy Walker,midwest,KITCHEN,Spice Rack Carousel,2,33.0,Website
+FW-10535,2025-09-03,Daniel Anderson,East,Home,Scented Candle Trio,2,28.0,Marketplace
+FW-11207,6/16/2026,Wei Adams,,Electronics,Noise-Isolating Earbuds,,45.0,Website
+FW-11268,2026-05-15,Emily White,South,Kitchen,Spice Rack Carousel,1,33.0,Website
+FW-11267,6/20/2026,Miguel Martinez,South,Home,Area Rug 5x7,1, 149.0 ,Website
+FW-11111,6/19/2026,Emily Taylor,west,Kitchen,Cast Iron Skillet 12in,1,44.0,Website
+FW-10657,"Sep 19, 2025",Nina Martinez,West,Electronics,Wireless Charging Pad,2,29.0,Website
+FW-11169,4/19/2026,Lily Chen,South,Electronics,Smart Plug 4-Pack,1,34.0,Marketplace
+FW-10922,2026-03-01,Luis Green,Midwest,Home,Scented Candle Trio,1,$28.00,Website
+FW-10661,2025-09-04,Jack Davis,West,Home,Scented Candle Trio,2,28.0,Website
+FW-11000,"Jan 9, 2026",Daniel Moore,West,Electronics,Bluetooth Speaker Mini,2,$39.00,Website
+FW-11233,"Apr 8, 2026",Chloe Johnson,East,Kitchen,Glass Storage 10-Piece,1,38.0,Social
+FW-11017,1/12/2026,Aisha Wright,Midwest,Electronics,Noise-Isolating Earbuds,3,45.0,Marketplace
+FW-10822,"Oct 30, 2025",Emily Jackson,West,Electronics,Cable Management Kit  ,2, 18.0 ,Social
+FW-10591,2025-07-23,Dana Wright,East,office,Filing Cabinet,1,129.0,Social
+FW-10542,2025-09-06,Lily Wright,East,Kitchen,Glass Storage 10-Piece,1,38.0,Marketplace
+FW-10771,2025-11-26,Tara Davis,Midwest,Electronics,Smart Plug 4-Pack  ,1,34.0,Marketplace
+FW-11243,2026-05-20,Omar Patel,South,Electronics,Webcam 1080p  ,2,59.0,Website
+FW-10563,"Sep 5, 2025",Tara Adams,East,Electronics,Smart Plug 4-Pack,1,34.0,Marketplace
+FW-11183,"Apr 2, 2026",Omar Moore,West,Electronics,Noise-Isolating Earbuds,2,$45.00,Social
+FW-10593,8/5/2025,Rosa Johnson,West,Office,Desk Organizer Set,2,24.0,Website
+FW-11271,5/11/2026,Andre Moore,West,Home,Wall Shelf Set,1,42.0,Website
+FW-10813,2025-10-23,Ken Jackson,Midwest,Office,LED Desk Lamp,2,32.0,Marketplace
+FW-10608,2025-07-10,Ethan Campbell,East,Office,Whiteboard 36in,1,55.0,Social
+FW-11171,2026-05-24,Victor Clark,Midwest,Kitchen,Cast Iron Skillet 12in,1,44.0,Marketplace
+FW-10890,"Dec 21, 2025",Andre Nguyen,Midwest,Home,Ceramic Table Lamp,3,48.0,Website
+FW-11256,"May 30, 2026",Nina Walker,East,office,Ergonomic Desk Chair,1,179.0,Marketplace
+FW-10891,11/5/2025,Andre Chen,East,Electronics,Noise-Isolating Earbuds,1,45.0,Website
+FW-11023,2026-01-22,Hannah Nguyen,Midwest,ELECTRONICS,Laptop Stand Aluminum,1,42.0,Website
+FW-10903,2026-01-31,Tara Smith,South,Electronics,Noise-Isolating Earbuds,2,45.0,Marketplace
+FW-11026,2026-02-07,Luis Harris,Midwest,office,Whiteboard 36in,2,55.0,Website
+FW-11052,2026-02-07,Victor Young,West,Home,Scented Candle Trio,3,28.0,Social
+FW-10861,2025-12-03,Emily Scott,Midwest,Home,Area Rug 5x7,3,149.0,Marketplace
+FW-11215,2026-05-09,Chloe Brown,Midwest,Electronics,Wireless Charging Pad,1,$29.00,Marketplace
+FW-10670,2025-08-07,Andre Wright,west,Home,Throw Blanket,2,$35.00,Social
+FW-11254,2026-05-27,Hannah Taylor,East,Kitchen,Spice Rack Carousel,3,33.0,Website
+FW-11089,3/10/2026,Wei Smith,West,HOME,Wall Shelf Set,1, 42.0 ,Website
+FW-11141,2026-04-20,Hannah Nguyen,West,kitchen,Cast Iron Skillet 12in,4,44.0,Website
+FW-10509,"Sep 11, 2025",Daniel Wright,South,Office,LED Desk Lamp,2,32.0,Marketplace
+FW-10840,"Dec 12, 2025",Priya Rivera,West,Office,LED Desk Lamp,1,32.0,Website
+FW-11195,4/30/2026,Omar Young,,Kitchen,Spice Rack Carousel,2,33.0,Website
+FW-10758,12/18/2025,Lily Jackson,South,Office,LED Desk Lamp,3,32.0,Marketplace
+FW-11220,"Jun 22, 2026",Aisha Lee,East,Kitchen,French Press 34oz,1,36.0,Website
+FW-11063,2026-02-22,Grace Lee,East,Electronics,Laptop Stand Aluminum,1,42.0,Website
+FW-10963,1/7/2026,Sofia Walker,West,Electronics,Cable Management Kit,2,18.0,Marketplace
+FW-11229,6/18/2026,Raj Harris,Midwest,Office,Whiteboard 36in,1,55.0,Website
+FW-10832,"Oct 24, 2025",Amy Clark,Midwest,Electronics,Smart Plug 4-Pack,3,$34.00,Marketplace
+FW-10765,2025-10-02,Carlos Wilson,South,OFFICE,Desk Organizer Set,1,24.0,Marketplace
+FW-10703,"Dec 15, 2025",Amy Wright,West,Office,LED Desk Lamp,1, 32.0 ,Website
+FW-10827,2025-11-04,James Martinez,West,Home,Area Rug 5x7,2,149.0,Website
+FW-10505,2025-07-31,Tara Campbell,East,Electronics,Webcam 1080p,2,59.0,Website
+FW-10533,7/4/2025,Ethan Harris,West,Electronics,Wireless Charging Pad,1,29.0,Website
+FW-10857,2025-11-10,Jack Martinez,South,Office,Standing Desk Riser,1,89.0,Website
+FW-10646,"Jul 5, 2025",Ethan Campbell,West,Electronics,Webcam 1080p,2,59.0,Marketplace
+FW-10656,"Aug 28, 2025",Tara King,Midwest,Office,Keyboard Wrist Rest,3,15.0,Website
+FW-11031,"Mar 29, 2026",Ethan Campbell,East,Kitchen,Cold Brew Pitcher,4,31.0,Website
+FW-10700,7/22/2025,Raj Taylor,Midwest,Kitchen,Bamboo Cutting Board,1,27.0,Social
+FW-11044,3/24/2026,Maria King,Midwest,Home,Curtain Panel Pair,2,39.0,Website
+FW-10614,2025-09-07,Nina Smith,West,Office,Whiteboard 36in,1,55.0,Marketplace
+FW-10797,"Oct 11, 2025",Aisha Garcia,South,Kitchen,Glass Storage 10-Piece,1,38.0,Website
+FW-10622,"Sep 14, 2025",Priya Walker,East,Office,Desk Organizer Set,2,24.0,Social
+FW-10978,2026-02-14,Tara Young,South,electronics,Laptop Stand Aluminum,1,42.0,Social
+FW-11287,6/26/2026,Lily Anderson,East,Kitchen,Knife Block Set,1,95.0,Website
+FW-11139,2026-05-28,Victor Johnson,East,Home,Curtain Panel Pair,2,39.0,Website
+FW-10961,2/26/2026,Grace King,South,Office,Monitor Arm,3,45.0,Marketplace
+FW-10672,"Sep 24, 2025",Nina Taylor,West,Home,Picture Frame Set,3,22.0,Marketplace
+FW-10854,12/3/2025,Amy Lee,Midwest,Office,LED Desk Lamp,1,32.0,Website
+FW-10789,"Nov 9, 2025",Luis Chen,east,KITCHEN,Knife Block Set,2,95.0,Website
+FW-10617,8/2/2025,Sofia Garcia,East,Office,Desk Organizer Set,2,24.0,Marketplace
+FW-10720,2025-12-24,Raj White,West,Office,Whiteboard 36in,1,55.0,Website
+FW-10616,"Sep 4, 2025",Daniel Jackson,South,office,Whiteboard 36in,2,55.0,Website
+FW-11198,"May 28, 2026",Nina Patel,,Home,Storage Ottoman,1,89.0,Website
+FW-10513,"Sep 29, 2025",Miguel Baker,East,Electronics,Cable Management Kit,2,18.0,Website
+FW-11114,5/18/2026,Ken Taylor,Midwest,Office,Desk Organizer Set,1,24.0,Marketplace
+FW-11206,5/27/2026,Wei Harris,East,Kitchen,Cast Iron Skillet 12in,1,44.0,Website
+FW-10599,"Jul 28, 2025",Paul Young,Midwest,electronics,USB-C Hub 7-Port,2,49.0,Marketplace
+FW-11290,"Apr 1, 2026",Nina Green,South,Electronics,Wireless Charging Pad,4,29.0,Website
+FW-11112,2026-04-01,Sofia White,West,ELECTRONICS,Noise-Isolating Earbuds,2,45.0,Marketplace
+FW-10741,2025-12-11,James Rivera,West,Electronics,Laptop Stand Aluminum,1,$42.00,Marketplace
+FW-11221,2026-06-05,Miguel Chen,Midwest,Home,Wall Shelf Set,2,42.0,Website
+FW-10839,2025-11-12,Emily Taylor,South,Home,Curtain Panel Pair,2,39.0,Website
+FW-11117,2026-05-26,Rosa Lewis,west,Office,Filing Cabinet,2,129.0,Marketplace
+FW-10807,2025-12-17,Nina Davis,east,Home,Throw Blanket,1,35.0,Website
+FW-10897,12/9/2025,Sofia Scott,South,Office,Desk Organizer Set,1,24.0,Website
+FW-11194,2026-06-15,Victor Davis,South,Electronics,Bluetooth Speaker Mini,1,39.0,Social
+FW-10540,2025-09-04,Wei Green,South,Electronics,USB-C Hub 7-Port,1,49.0,Website
+FW-10976,2026-01-05,Grace Scott,Midwest,Office,Whiteboard 36in,2,55.0,Marketplace
+FW-10842,11/16/2025,Emily Scott,South,Kitchen,Electric Kettle,3,52.0,Website
+FW-10602,7/8/2025,Amy Wright,South,HOME,Scented Candle Trio,1,28.0,Social
+FW-10600,2025-08-09,Dana Johnson,South, Electronics,Laptop Stand Aluminum,1,42.0,Website
+FW-10777,2025-12-12,Dana Young,Midwest,Home,Curtain Panel Pair,1,39.0,Website
+FW-10710,"Dec 14, 2025",Grace Baker,Midwest, Home,Ceramic Table Lamp,1,48.0,Marketplace
+FW-11074,2026-02-04,Grace Rivera,Midwest,Office,Keyboard Wrist Rest,1,15.0,Website
+FW-10751,2025-10-26,Beth King,east,Electronics,Wireless Charging Pad,1,29.0,Social
+FW-10702,2025-10-18,Omar Taylor,East,Office,Standing Desk Riser,2,89.0,Marketplace
+FW-11166,4/5/2026,Tara Wright,East,Home,Wall Shelf Set,3, 42.0 ,Website
+FW-10612,2025-09-19,Nina Moore,South,Office,Standing Desk Riser,1,89.0,Marketplace
+FW-11223,2026-06-09,Sam Jackson,West,Home,Throw Blanket,3,35.0,Website
+FW-11277,6/20/2026,Sam Adams,South,Electronics,USB-C Hub 7-Port,1,49.0,Marketplace
+FW-10958,"Feb 23, 2026",Paul Moore,Midwest,Home,Storage Ottoman,3,89.0,Website
+FW-11278,2026-04-02,Sofia Chen,Midwest,Electronics,Cable Management Kit,4,18.0,Marketplace
+FW-10728,2025-11-03,Daniel Scott,Midwest,Kitchen,French Press 34oz  ,1,36.0,Marketplace
+FW-11135,2026-05-06,Nina Green,West,Home,Throw Blanket,1,35.0,Website
+FW-11285,"Apr 5, 2026",Wei Clark,Midwest,Home,Area Rug 5x7,2,149.0,Social
+FW-10950,2026-03-07,Dana Martinez,East,Home,Throw Blanket,1,35.0,Website
+FW-11212,"May 25, 2026",Andre Moore,East,Electronics,Noise-Isolating Earbuds  ,2,45.0,Social
+FW-10942,2026-01-18,Wei Rivera,Midwest,home,Picture Frame Set  ,2,22.0,Website
+FW-10645,2025-09-01,Victor Adams,South,Kitchen,Cold Brew Pitcher,1,31.0,Website
+FW-11037,1/23/2026,Amy Smith,East, Kitchen,Cold Brew Pitcher,2,31.0,Marketplace
+FW-10773,2025-12-07,Sofia Patel,Midwest,Office,Desk Organizer Set,1,24.0,Social
+FW-11182,4/2/2026,Aisha Patel,South,kitchen,French Press 34oz,1,36.0,Website
+FW-10547,2025-09-16,Nina Taylor,East,Home,Storage Ottoman,1,89.0,Website
+FW-10750,12/15/2025,Aisha Baker,East,Kitchen,Cast Iron Skillet 12in,3,44.0,Website
+FW-10835,"Dec 30, 2025",Jack Anderson,,Electronics,Smart Plug 4-Pack,one,34.0,Website
+FW-10811,10/2/2025,Sam Harris,East,Office,Keyboard Wrist Rest,4,15.0,Marketplace
+FW-10947,2026-02-10,Amy Moore,East,Kitchen,Glass Storage 10-Piece,4, 38.0 ,Website
+FW-10936,2/2/2026,Emily Nguyen,West,Office,Ergonomic Desk Chair,1,179.0,Marketplace
+FW-10795,10/30/2025,Tara King,Midwest,Kitchen,Cast Iron Skillet 12in,1,44.0,Website
+FW-11007,2026-03-04,Hannah Taylor,Midwest,Electronics,Webcam 1080p  ,3,59.0,Marketplace
+FW-10980,2026-01-13,Grace Anderson,East,Office,Monitor Arm,1,45.0,Website
+FW-10570,"Aug 5, 2025",Dana Hall,midwest,Home,Throw Blanket,3,35.0,Website
+FW-10783,2025-11-20,Chloe Scott,Midwest,Home,Wall Shelf Set,2,42.0,Website
+FW-11249,2026-06-29,Ken Green,Midwest,Home,Scented Candle Trio,1,28.0,Marketplace
+FW-11148,2026-06-07,Priya Johnson,Midwest,Kitchen,French Press 34oz  ,1,36.0,Social
+FW-11014,"Mar 22, 2026",Amy Scott,,Office,Keyboard Wrist Rest,2,15.0,Marketplace
+FW-10511,"Sep 9, 2025",Luis Chen,West,Office,Monitor Arm,,45.0,Website
+FW-11186,4/7/2026,Jack Anderson,Midwest,Kitchen,Spice Rack Carousel  ,2,33.0,Marketplace
+FW-10826,2025-10-14,Nina Martinez,Midwest,Home,Scented Candle Trio  ,2,28.0,Marketplace
+FW-10836,"Dec 17, 2025",Amy Wright,,Kitchen,French Press 34oz,1,36.0,Website
+FW-10893,2025-10-04,Rosa King,Midwest,Home,Ceramic Table Lamp  ,2,48.0,Marketplace
+FW-10695,"Jul 23, 2025",James Hall,Midwest,Electronics,Noise-Isolating Earbuds,1,45.0,Marketplace
+FW-10780,11/1/2025,Hannah Green,East,Electronics,Bluetooth Speaker Mini,3,39.0,Marketplace
+FW-10740,"Oct 6, 2025",Nina Hall,South,Office,Standing Desk Riser,2,89.0,Social
+FW-11057,2026-02-12,Miguel Garcia,East,Electronics,Noise-Isolating Earbuds,2,45.0,Social
+FW-10995,3/31/2026,James Adams,Midwest,Home,Ceramic Table Lamp,1,48.0,Social
+FW-11106,4/3/2026,Rosa Campbell,Midwest,Kitchen,Cold Brew Pitcher,1,31.0,Website
+FW-10717,2025-11-23,Jack Baker,South,Kitchen,French Press 34oz,2,36.0,Marketplace
+FW-10706,10/7/2025,Hannah Campbell,Midwest,Electronics,Bluetooth Speaker Mini,1,39.0,Marketplace
+FW-11161,2026-06-07,Dana Campbell,West,Office,Whiteboard 36in,1,55.0,Website
+FW-11190,2026-05-03,Wei Rivera,South,Office,Filing Cabinet,2, 129.0 ,Website
+FW-10705,12/28/2025,Andre Baker,South,Home,Wall Shelf Set,1,42.0,Website
+FW-11072,1/22/2026,Sam Rivera,West,Electronics,USB-C Hub 7-Port,2,49.0,Website
+FW-10619,8/11/2025,Aisha Green,South,Electronics,Webcam 1080p,4,59.0,Website
+FW-10584,"Jul 19, 2025",Aisha Baker,Midwest,HOME,Area Rug 5x7,1,149.0,Social
+FW-11251,2026-06-10,Luis Campbell,,OFFICE,Whiteboard 36in,1,55.0,Website
+FW-10956,2026-01-07,Miguel Rivera,Midwest,Electronics,USB-C Hub 7-Port,1,49.0,Website
+FW-11170,2026-04-24,Dana Walker,East,Kitchen,Glass Storage 10-Piece,2, 38.0 ,Marketplace
+FW-11299,6/1/2026,Sofia Johnson,East,home,Picture Frame Set,1,22.0,Website
+FW-10543,2025-09-30,Miguel Hall,East,Kitchen,Bamboo Cutting Board,4,27.0,Social
+FW-10739,2025-11-08,Chloe Brown,South,kitchen,Glass Storage 10-Piece,2,38.0,Social
+FW-10935,"Jan 27, 2026",Jack Hall,West,Kitchen,Spice Rack Carousel,1,33.0,Social
+FW-10859,12/20/2025,Rosa Adams,East,Home,Throw Blanket,1,35.0,Website
+FW-10683,9/18/2025,Wei Walker,South,OFFICE,Keyboard Wrist Rest,1,15.0,Website
+FW-10560,"Aug 27, 2025",Amy Wright,East,HOME,Scented Candle Trio,2,28.0,Website
+FW-10770,11/12/2025,Jack Campbell,East,office,Whiteboard 36in,2,55.0,Website
+FW-10867,2025-10-10,Ethan Brown,South,Home,Area Rug 5x7,3,149.0,Marketplace
+FW-11130,2026-06-04,Lily Young,South,Home,Picture Frame Set,1, 22.0 ,Website
+FW-10834,10/10/2025,Aisha White,East,Kitchen,French Press 34oz,1,36.0,Website
+FW-10525,9/24/2025,Ethan Martinez,West,Office,Ergonomic Desk Chair,1,179.0,Social
+FW-10869,10/21/2025,Lily Clark,Midwest,Office,Filing Cabinet,1,129.0,Website
+FW-10984,"Jan 18, 2026",Beth Harris,South,Kitchen,Spice Rack Carousel,1,33.0,Website
+FW-10851,2025-11-23,Grace Johnson,Midwest,Home,Storage Ottoman,2,89.0,Website
+FW-10971,"Mar 20, 2026",Emily Johnson,West,Home,Picture Frame Set,1,22.0,Social
+FW-11004,2026-03-10,Carlos Hall,South,Home,Wall Shelf Set,1,42.0,Website
+FW-11297,"May 21, 2026",Wei Hall,West,Electronics,Bluetooth Speaker Mini,1,39.0,Marketplace
+FW-11062,"Jan 4, 2026",Wei Green,Midwest,Electronics,Webcam 1080p,2,59.0,Website
+FW-10764,"Dec 29, 2025",Aisha Garcia,South,Electronics,Wireless Charging Pad,1,29.0,Website
+FW-11294,"May 8, 2026",Nina King,East,Office,Monitor Arm,3,45.0,Social
+FW-10598,7/14/2025,Grace Campbell,South,Electronics,Bluetooth Speaker Mini,3,$39.00,Marketplace
+FW-10582,2025-07-02,Amy Campbell,South,Kitchen,Bamboo Cutting Board,1,27.0,Website
+FW-11237,2026-06-23,Sofia Anderson,East,Electronics,Cable Management Kit,1,18.0,Website
+FW-11152,2026-05-04,Nina Smith,Midwest,ELECTRONICS,Wireless Charging Pad,1,29.0,Social
+FW-10926,2026-02-06,Nina King,East,Kitchen,Spice Rack Carousel,3,33.0,Marketplace
+FW-10883,10/5/2025,Priya Moore,South,Home,Scented Candle Trio,1,28.0,Website
+FW-11038,3/23/2026,Tara Harris,west,Kitchen,Glass Storage 10-Piece,one,38.0,Website
+FW-10665,"Jul 27, 2025",Amy Clark,West,Electronics,USB-C Hub 7-Port,1,49.0,Website
+FW-11153,2026-04-20,Amy Jackson,Midwest,Office,Monitor Arm,1,45.0,Marketplace
+FW-10929,"Mar 26, 2026",Sam Garcia,Midwest,Home,Storage Ottoman,2,89.0,Website
+FW-10628,7/31/2025,Ethan Brown,East,Kitchen,Spice Rack Carousel,1,33.0,Marketplace
+FW-10660,"Sep 9, 2025",Luis White,South,HOME,Wall Shelf Set,1,42.0,Website
+FW-10696,"Sep 24, 2025",Sam Taylor,South,Kitchen,Spice Rack Carousel,1,33.0,Website
+FW-10686,"Jul 6, 2025",Sofia Chen,East,Office,Keyboard Wrist Rest,,15.0,Website
+FW-11061,2026-01-09,Tara White,south,Office,Desk Organizer Set,2,24.0,Social
+FW-11213,5/27/2026,Ken Harris,East,Office,Ergonomic Desk Chair,4,179.0,Marketplace
+FW-11176,2026-06-28,Lily Johnson,East,Electronics,Smart Plug 4-Pack,3,$34.00,Website
+FW-11286,5/14/2026,Jack Lewis,East,Kitchen,Cold Brew Pitcher,3,31.0,Social
+FW-10990,2026-02-01,Jack Chen,West,Home,Picture Frame Set,2,22.0,Social
+FW-10595,2025-09-18,Ethan Scott,South,Electronics,Wireless Charging Pad,1,29.0,Website
+FW-10776,"Dec 15, 2025",Grace Davis,East,Kitchen,French Press 34oz,2,36.0,Website
+FW-10931,3/9/2026,Emily Young,Midwest,Kitchen,Cast Iron Skillet 12in,2,44.0,Marketplace
+FW-10754,2025-10-11,Lily Young,East,Office,LED Desk Lamp,2,32.0,Marketplace
+FW-10998,2026-01-05,Beth Baker,West,Office,Keyboard Wrist Rest,3,15.0,Social
+FW-10736,2025-12-10,Omar Garcia,South,Office,Filing Cabinet,3,$129.00,Marketplace
+FW-10923,"Mar 5, 2026",Paul Nguyen,East,Office,Ergonomic Desk Chair,3,179.0,Marketplace
+FW-11178,5/13/2026,Sam Chen,South,Office,Filing Cabinet,1,129.0,Website
+FW-10927,1/2/2026,Daniel Campbell,South,HOME,Curtain Panel Pair,1,39.0,Marketplace
+FW-10685,9/25/2025,Priya Brown,South,Office,LED Desk Lamp,1,32.0,Marketplace
+FW-10567,2025-07-05,Sam Moore,Midwest, Office,Filing Cabinet,2,129.0,Website
+FW-10907,"Jan 5, 2026",Ken Scott,east,Electronics,Webcam 1080p,3,59.0,Website
+FW-10767,12/25/2025,Sam White,Midwest,HOME,Throw Blanket,4,35.0,Website
+FW-10819,"Oct 17, 2025",Sofia Patel,East,Home,Picture Frame Set,3,$22.00,Website
+FW-11292,"Jun 15, 2026",Wei Baker,West,Office,Whiteboard 36in,2,55.0,Marketplace
+FW-10792,2025-11-17,James Davis,South,Home,Throw Blanket,1,35.0,Website
+FW-10911,2026-01-17,Daniel Johnson,South,Electronics,Noise-Isolating Earbuds,,45.0,Social
+FW-10738,2025-12-02,Chloe Harris,Midwest,Kitchen,Cold Brew Pitcher,1,31.0,Marketplace
+FW-10678,2025-09-25,Lily Harris,West,Kitchen,Cold Brew Pitcher,2,31.0,Social
+FW-10644,2025-07-04,Rosa Anderson,South,Electronics,Bluetooth Speaker Mini,2,39.0,Marketplace
+FW-10654,"Jul 7, 2025",Dana Brown,West,Kitchen,Cast Iron Skillet 12in,1,44.0,Website
+FW-10824,11/15/2025,Miguel Green,East,ELECTRONICS,Bluetooth Speaker Mini  ,2,39.0,Marketplace
+FW-10788,2025-11-14,Ken Lewis,South,Office,LED Desk Lamp,2,32.0,Social
+FW-11101,4/14/2026,Priya Taylor,South,OFFICE,Filing Cabinet,2,129.0,Marketplace
+FW-11019,1/4/2026,Victor Davis,Midwest,Kitchen,Cold Brew Pitcher,2,31.0,Marketplace
+FW-10862,2025-11-01,Omar Walker,West,Electronics,Wireless Charging Pad,1,29.0,Website
+FW-10635,7/11/2025,Daniel Martinez,East,ELECTRONICS,Smart Plug 4-Pack,2,34.0,Marketplace
+FW-11084,1/14/2026,Priya Walker,East,Home,Ceramic Table Lamp,2,48.0,Social
+FW-11146,2026-04-03,Andre Jackson,Midwest,Home,Curtain Panel Pair,4,39.0,Social
+FW-10597,2025-07-26,Priya Chen,West,Kitchen,Cold Brew Pitcher,2,31.0,Website
+FW-10531,2025-09-20,Daniel Nguyen,South,Office,Filing Cabinet,2,129.0,Website
+FW-11100,2026-01-31,Tara Garcia,Midwest,Home,Ceramic Table Lamp,3,48.0,Marketplace
+FW-10778,12/15/2025,Paul Hall,South,Electronics,USB-C Hub 7-Port,1,49.0,Marketplace
+FW-10866,2025-11-11,Dana Baker,Midwest,home,Area Rug 5x7,2,149.0,Marketplace
+FW-11036,2026-03-12,Carlos Martinez,East,Electronics,Wireless Charging Pad,1,29.0,Website
+FW-10655,2025-09-05,Tara Clark,South,Electronics,Noise-Isolating Earbuds,1,45.0,Marketplace
+FW-11055,2026-01-10,Raj Moore,East,Home,Ceramic Table Lamp  ,2,48.0,Website
+FW-10658,2025-08-16,Rosa Nguyen,South,Home,Wall Shelf Set  ,1,42.0,Website
+FW-10790,2025-11-15,Raj Hall,East,Home,Storage Ottoman  ,1,89.0,Marketplace
+FW-10562,7/30/2025,Maria Adams,Midwest,Office,Whiteboard 36in,1,55.0,Website
+FW-10711,2025-12-24,Emily Adams,East,Electronics,Noise-Isolating Earbuds,2,45.0,Website
+FW-11096,"Jan 1, 2026",Emily Chen,midwest,Electronics,Smart Plug 4-Pack,1,34.0,Marketplace
+FW-10940,1/5/2026,Chloe Lewis,east,OFFICE,Filing Cabinet,1,129.0,Website
+FW-10615,2025-07-21,Luis Davis,East,Home,Wall Shelf Set,4,42.0,Website
+FW-11219,2026-05-09,Priya Smith,Midwest,kitchen,Electric Kettle,1,52.0,Website
+FW-10864,11/28/2025,Raj Jackson,Midwest,Electronics,Smart Plug 4-Pack,,34.0,Website
+FW-11180,"Apr 16, 2026",Luis Scott,South,Office,Whiteboard 36in,1,55.0,Marketplace
+FW-11033,"Feb 23, 2026",Raj Wilson,Midwest,Home,Picture Frame Set,2,22.0,Marketplace
+FW-11201,2026-04-16,Tara Wilson,West,Home,Curtain Panel Pair,1,39.0,Marketplace
+FW-11284,5/4/2026,Ken Walker,East,Office,Standing Desk Riser,2,89.0,Website
+FW-10569,2025-07-05,Sam Garcia,South, Kitchen,French Press 34oz,3,36.0,Website
+FW-10714,2025-11-02,Raj Taylor,South,Home,Throw Blanket,1,35.0,Website
+FW-11164,2026-05-14,Miguel Young,West,Home,Wall Shelf Set,2,42.0,Website
+FW-10587,7/27/2025,Beth Campbell,Midwest,HOME,Throw Blanket,3,35.0,Marketplace
+FW-10997,3/20/2026,Priya Young,East,Electronics,Laptop Stand Aluminum  ,1,$42.00,Website
+FW-10825,2025-11-10,Victor Adams,West,Home,Throw Blanket,1, 35.0 ,Social
+FW-10666,2025-07-03,Priya Martinez,Midwest,Home,Throw Blanket,1,35.0,Website
+FW-10801,2025-11-03,Maria Lee,East,Home,Scented Candle Trio,1,28.0,Marketplace
+FW-10693,7/18/2025,Aisha Davis,West,Office,LED Desk Lamp,1,32.0,Marketplace
+FW-10677,2025-07-18,Emily Moore,West,Office,Desk Organizer Set,,24.0,Marketplace
+FW-11208,2026-06-11,Dana Lee,West,Electronics,Laptop Stand Aluminum  ,2,42.0,Marketplace
+FW-11034,2/2/2026,James Garcia,South,Kitchen,Cold Brew Pitcher,2,31.0,Website
+FW-10791,"Dec 1, 2025",Sofia Lee,East,Office,Filing Cabinet,1,$129.00,Website
+FW-10519,2025-07-12,Paul Clark,South,Home,Ceramic Table Lamp,1,48.0,Website
+FW-11045,2026-02-05,Wei Campbell,East,Home,Scented Candle Trio,1,28.0,Website
+FW-10943,2026-02-11,Luis White,South,Home,Storage Ottoman,2,89.0,Website
+FW-10638,2025-09-27,Omar Young,West,Home,Area Rug 5x7,1,149.0,Marketplace
+FW-11293,6/19/2026,Dana Taylor,West,Home,Throw Blanket,2,35.0,Social
+FW-10755,2025-10-19,Hannah Harris,Midwest,Home,Wall Shelf Set,2,42.0,Website
+FW-11003,"Jan 7, 2026",Lily Campbell,South,Office,LED Desk Lamp,2,32.0,Website
+FW-10549,7/12/2025,Omar Adams,South,Electronics,USB-C Hub 7-Port,1,49.0,Website
+FW-11082,"Mar 19, 2026",Victor King,east,Home,Scented Candle Trio,1,28.0,Website
+FW-11032,2/1/2026,Raj Martinez,Midwest, Office,Standing Desk Riser,1,89.0,Website
+FW-10919,3/22/2026,Priya Moore,east,Electronics,Smart Plug 4-Pack,1,34.0,Marketplace
+FW-11123,"May 15, 2026",Emily Young,East,Office,Keyboard Wrist Rest  ,1,15.0,Website
+FW-11248,2026-06-17,Sam Wright,Midwest,Kitchen,Knife Block Set,1,95.0,Website
+FW-10676,7/3/2025,Miguel Young,West,Kitchen,Electric Kettle,1,52.0,Social
+FW-10918,"Feb 26, 2026",Tara Scott,East,electronics,USB-C Hub 7-Port,2,49.0,Marketplace
+FW-11108,"May 14, 2026",James Chen,South,Home,Throw Blanket,1, 35.0 ,Website
+FW-10937,2026-02-04,Jack Garcia,South,Kitchen,Knife Block Set,2,95.0,Website
+FW-11073,2026-02-19,Hannah Johnson,Midwest,Electronics,Bluetooth Speaker Mini,1,39.0,Website
+FW-10799,11/10/2025,Sam Davis,South,OFFICE,Whiteboard 36in  ,1,55.0,Marketplace
+FW-11172,4/27/2026,Rosa Nguyen,East,Kitchen,Glass Storage 10-Piece,1, 38.0 ,Website
+FW-10601,2025-09-22,Beth Anderson,South,Home,Throw Blanket,,35.0,Marketplace
+FW-10955,2026-01-17,Wei Walker,West,Kitchen,Bamboo Cutting Board,2,27.0,Marketplace
+FW-10555,2025-08-12,Dana Garcia,East,Electronics,USB-C Hub 7-Port,1, 49.0 ,Website
+FW-11167,5/9/2026,Rosa Johnson,West,Home,Scented Candle Trio,3,28.0,Website
+FW-10886,12/27/2025,Aisha Clark,West,Home,Picture Frame Set,1,22.0,Website
+FW-10941,1/9/2026,Andre Campbell,West,ELECTRONICS,Cable Management Kit,1,18.0,Website
+FW-10831,12/9/2025,Omar Lewis,South,Home,Picture Frame Set,1,22.0,Social
+FW-11025,2026-02-27,Priya Baker,South,Office,Whiteboard 36in,1,55.0,Marketplace
+FW-10820,"Oct 17, 2025",Hannah Anderson,West,kitchen,Bamboo Cutting Board,1,27.0,Website
+FW-11234,"Jun 21, 2026",Sofia Clark,East,electronics,Noise-Isolating Earbuds,4,45.0,Social
+FW-11075,2026-01-02,Ethan Wilson,West,Kitchen,Electric Kettle,1,52.0,Website
+FW-10756,2025-11-01,Hannah Jackson,West,Kitchen,Knife Block Set,2, 95.0 ,Social
+FW-10964,1/27/2026,Ethan Smith,South,Home,Wall Shelf Set,4,42.0,Marketplace
+FW-11264,2026-04-12,Raj Jackson,West,Home,Ceramic Table Lamp,3,48.0,Marketplace
+FW-11029,2026-03-24,Sam Harris,South,Electronics,Bluetooth Speaker Mini,1,39.0,Marketplace
+FW-10667,2025-08-15,Daniel Lewis,Midwest,Electronics,USB-C Hub 7-Port,1,49.0,Website
+FW-10899,2025-11-15,Nina Nguyen,East,Office,Whiteboard 36in,1,55.0,Marketplace
+FW-11262,5/16/2026,Priya Moore,East,Electronics,Webcam 1080p,1,59.0,Social
+FW-10572,2025-07-12,Paul Moore,Midwest,Home,Picture Frame Set,1, 22.0 ,Website
+FW-11239,"May 15, 2026",Nina Martinez,South, Kitchen,Glass Storage 10-Piece,1,38.0,Marketplace
+FW-11155,2026-05-30,Emily Campbell,Midwest,OFFICE,Ergonomic Desk Chair,2,179.0,Website
+FW-10987,2026-02-14,Lily Adams,Midwest,Electronics,Wireless Charging Pad,3,29.0,Marketplace
+FW-10721,"Dec 15, 2025",Rosa Davis,East, Office,Keyboard Wrist Rest,1,15.0,Website
+FW-11218,4/8/2026,Sofia Scott,Midwest,Electronics,USB-C Hub 7-Port,3,49.0,Social
+FW-10892,2025-12-23,Priya Baker,West,Home,Storage Ottoman,2,89.0,Website
+FW-11048,"Jan 15, 2026",Lily Rivera,South,electronics,USB-C Hub 7-Port,1, 49.0 ,Marketplace
+FW-10879,11/22/2025,Rosa Brown,South, Office,Ergonomic Desk Chair,3,179.0,Website
+FW-10800,12/2/2025,Raj Harris,East,Kitchen,Bamboo Cutting Board,2,27.0,Website
+FW-10992,1/8/2026,Wei Baker,West,Office,Standing Desk Riser,1,89.0,Website
+FW-10846,"Nov 9, 2025",Beth Brown,East,Office,LED Desk Lamp,1,32.0,Social
+FW-10694,9/16/2025,Miguel Martinez,Midwest,electronics,Bluetooth Speaker Mini,1,39.0,Website
+FW-11197,6/22/2026,Maria Wilson,West,Kitchen,Electric Kettle,2,52.0,Social
+FW-11035,1/20/2026,Chloe Scott,,Office,LED Desk Lamp,1,32.0,Website
+FW-11127,2026-06-10,Andre Brown,East,Home,Storage Ottoman,1,89.0,Website
+FW-10954,2026-03-14,Tara Scott,South,Home,Area Rug 5x7,3,149.0,Marketplace
+FW-11137,6/9/2026,Grace Young,Midwest,Office,Whiteboard 36in,2,55.0,Website
+FW-11257,2026-06-28,Carlos White,Midwest,kitchen,Glass Storage 10-Piece,1,38.0,Marketplace
+FW-11076,2026-01-23,Aisha Garcia,Midwest,Home,Scented Candle Trio,2,28.0,Marketplace
+FW-10959,2026-01-09,Sofia Chen,West,Kitchen,Glass Storage 10-Piece,2,38.0,Website
+FW-11126,5/20/2026,Wei Clark,East,Electronics,Laptop Stand Aluminum,3,42.0,Social
+FW-11173,2026-05-13,Priya Campbell,South,Home,Throw Blanket,3,$35.00,Website
+FW-10816,2025-12-28,Priya Hall,East,Office,Whiteboard 36in,2,55.0,Marketplace
+FW-11027,1/20/2026,Ken Young,East,Electronics,Noise-Isolating Earbuds,1,45.0,Marketplace
+FW-10996,2/28/2026,Paul Clark,East,Home,Picture Frame Set,1,22.0,Marketplace
+FW-10882,2025-11-13,Andre Adams,Midwest,Office,Keyboard Wrist Rest,2,15.0,Website
+FW-10596,8/3/2025,Aisha Wilson,South,office,Monitor Arm,1,45.0,Marketplace
+FW-10928,2026-02-03,Luis Wright,East,Office,Whiteboard 36in,2,55.0,Social
+FW-11125,6/16/2026,Paul Smith,West,Kitchen,Bamboo Cutting Board,1,27.0,Website
+FW-10715,"Nov 13, 2025",Rosa Garcia,East,Office,Monitor Arm,1,45.0,Social
+FW-10690,2025-08-07,Lily Lewis,South,Electronics,Bluetooth Speaker Mini,1, 39.0 ,Social
+FW-11050,2026-03-07,Chloe Wilson,East,Home,Storage Ottoman,1,89.0,Website
+FW-10528,2025-09-13,Luis Young,South,Electronics,Smart Plug 4-Pack,1,34.0,Marketplace
+FW-11295,2026-06-05,Jack Brown,West,Electronics,Bluetooth Speaker Mini,2,39.0,Website
+FW-11113,"May 1, 2026",Raj Baker,East,KITCHEN,Electric Kettle,1,52.0,Website
+FW-11090,1/6/2026,Amy Clark,South,Home,Ceramic Table Lamp,1,48.0,Social
+FW-10744,11/6/2025,Chloe Baker,Midwest,HOME,Area Rug 5x7,1,149.0,Marketplace
+FW-11255,2026-06-05,Maria King,East,Office,Whiteboard 36in,1,$55.00,Marketplace
+FW-11138,2026-04-07,Paul Clark,South,Office,Ergonomic Desk Chair,1, 179.0 ,Social
+FW-10781,2025-11-24,Grace Lee,East,Electronics,Smart Plug 4-Pack,3,34.0,Marketplace
+FW-11227,6/21/2026,Aisha Scott,East,Home,Scented Candle Trio,1,28.0,Website
+FW-10934,2026-01-09,Raj Nguyen,south,Office,Standing Desk Riser,1,89.0,Website
+FW-10729,2025-10-26,Victor Lee,South,Kitchen,Bamboo Cutting Board,3,27.0,Website
+FW-11291,2026-05-23,Grace Lewis,East,Electronics,USB-C Hub 7-Port,1,49.0,Marketplace
+FW-10536,2025-09-15,Chloe King,West,Electronics,Laptop Stand Aluminum,2,42.0,Marketplace
+FW-11274,2026-05-24,Amy Walker,West,Home,Picture Frame Set,1,22.0,Website
+FW-10682,2025-07-30,Lily White,West,Electronics,Cable Management Kit,2,18.0,Website
+FW-11041,2026-03-19,James Wilson,West,Electronics,Laptop Stand Aluminum,1,42.0,Website
+FW-10847,12/31/2025,Amy Patel,East, Office,Standing Desk Riser,3,89.0,Marketplace
+FW-11175,2026-04-19,Sam Jackson,Midwest,Home,Picture Frame Set,3,22.0,Marketplace
+FW-11235,2026-06-12,Andre Campbell,East,Electronics,Webcam 1080p,1,59.0,Marketplace
+FW-10809,"Dec 17, 2025",Ethan Davis,South,office,Monitor Arm,1, 45.0 ,Website
+FW-11163,6/25/2026,Beth Smith,East,Office,Ergonomic Desk Chair,1,179.0,Marketplace
+FW-11064,2026-03-03,Luis Taylor,South,Office,Ergonomic Desk Chair,3,$179.00,Website
+FW-10885,11/26/2025,Emily Brown,Midwest,Home,Area Rug 5x7,1,149.0,Website
+FW-10844,"Dec 27, 2025",James Adams,South,Office,Ergonomic Desk Chair,3,179.0,Marketplace
+FW-10760,"Oct 16, 2025",Luis Anderson,Midwest,Office,Ergonomic Desk Chair,two,179.0,Website
+FW-10914,2/16/2026,Andre Clark,South,Home,Ceramic Table Lamp,1,48.0,Marketplace
+FW-10719,11/14/2025,Chloe Davis,East,Electronics,Wireless Charging Pad,3,29.0,Website
+FW-10707,2025-10-04,Tara Martinez,Midwest,home,Wall Shelf Set,2,$42.00,Website
+FW-10561,2025-08-24,Hannah Scott,,Office,Ergonomic Desk Chair,3,$179.00,Website
+FW-10510,8/18/2025,Chloe Campbell,Midwest,ELECTRONICS,Webcam 1080p,1,59.0,Marketplace
+FW-10708,2025-11-27,Ethan Brown,East,KITCHEN,Bamboo Cutting Board,2,27.0,Social
+FW-10649,9/18/2025,Maria Nguyen,South,Home,Storage Ottoman,1,89.0,Marketplace
+FW-11120,2026-04-01,Hannah Smith,, Home,Throw Blanket,1,35.0,Marketplace
+FW-11091,2/25/2026,Maria Moore,West,Kitchen,French Press 34oz,1,36.0,Marketplace
+FW-11018,2026-03-11,James Garcia,West,office,Desk Organizer Set,1,24.0,Website
+FW-11128,2026-04-09,Nina Adams,West,Office,LED Desk Lamp,2,32.0,Social
+FW-11054,3/6/2026,Aisha Harris,East,home,Wall Shelf Set,3,42.0,Marketplace
+FW-10757,12/17/2025,Emily King,Midwest,Electronics,Cable Management Kit,1,18.0,Social
+FW-10668,8/3/2025,Maria White,Midwest,Home,Throw Blanket,1,35.0,Social
+FW-11240,"Jun 9, 2026",Sofia Baker,East,Home,Storage Ottoman,1,89.0,Social
+FW-10894,2025-10-14,James Baker,west,Office,Filing Cabinet,3,129.0,Marketplace
+FW-11140,6/17/2026,Ken Lewis,,Kitchen,French Press 34oz,1,36.0,Website
+FW-10671,"Jul 25, 2025",Tara Harris,South,Kitchen,Electric Kettle,1,52.0,Website
+FW-10912,1/28/2026,Sofia Nguyen,West,Home,Picture Frame Set,2,22.0,Website
+FW-11049,"Mar 7, 2026",Beth Moore,Midwest,Home,Scented Candle Trio,2,28.0,Marketplace
+FW-10817,11/23/2025,Ken Davis,South,Office,Desk Organizer Set,1,24.0,Website
+FW-11104,2026-05-19,Raj Taylor,Midwest,Office,Ergonomic Desk Chair,1,179.0,Marketplace
+FW-11228,2026-05-07,Emily Nguyen,East,Electronics,USB-C Hub 7-Port,3,49.0,Marketplace
+FW-10630,9/17/2025,Sam Harris,Midwest,Electronics,USB-C Hub 7-Port,2,49.0,Website
+FW-10633,2025-08-01,Daniel Clark,East,Office,Filing Cabinet,1,129.0,Website
+FW-10688,8/3/2025,Hannah Taylor,East,Kitchen,French Press 34oz,1,36.0,Marketplace
+FW-10564,2025-07-09,Wei White,Midwest,Electronics,Cable Management Kit,4,18.0,Website
+FW-10637,9/6/2025,Emily Brown,West,Office,Desk Organizer Set,1,$24.00,Website
+FW-10979,2026-03-09,Dana Harris,,Office,Monitor Arm,2,45.0,Website
+FW-10673,2025-09-12,Beth Brown,Midwest,Kitchen,Glass Storage 10-Piece,2,38.0,Marketplace
+FW-11099,1/23/2026,Nina Johnson,South,Electronics,Webcam 1080p,1, 59.0 ,Social
+FW-10725,2025-11-04,Priya Scott,South,Home,Picture Frame Set,2,22.0,Marketplace
+FW-11028,3/14/2026,Tara Anderson,South,Electronics,USB-C Hub 7-Port,1,49.0,Social
+FW-11142,2026-05-23,Victor Chen,West,Home,Picture Frame Set,2,22.0,Marketplace
+FW-11116,2026-05-05,Luis Nguyen,East,Electronics,Cable Management Kit,2,18.0,Website
+FW-11203,2026-04-20,Andre King,West,Electronics,Laptop Stand Aluminum,1,42.0,Website
+FW-10631,"Sep 6, 2025",Ken Jackson,West,Home,Scented Candle Trio,2,28.0,Marketplace
+FW-10653,"Jul 30, 2025",Nina Green,West,Kitchen,Cast Iron Skillet 12in,2,44.0,Marketplace
+FW-10944,2026-03-27,Dana Harris,Midwest,office,LED Desk Lamp,one,32.0,Website
+FW-10586,2025-08-22,Miguel Patel,East,Office,Standing Desk Riser,1,89.0,Website
+FW-11121,5/6/2026,Carlos Chen,Midwest,Home,Area Rug 5x7,1,149.0,Social
+FW-10868,2025-11-14,Aisha Nguyen,East,Home,Picture Frame Set,1,22.0,Website
+FW-10865,"Oct 30, 2025",Emily Walker,East,Kitchen,Spice Rack Carousel,1,33.0,Website
+FW-10870,2025-10-15,Carlos King,West,Office,Keyboard Wrist Rest,1,15.0,Website
+FW-10904,"Mar 8, 2026",Lily Lewis,Midwest,Office,Keyboard Wrist Rest,1,15.0,Marketplace
+FW-11204,2026-06-28,Chloe Wright,South,home,Picture Frame Set,1,22.0,Marketplace
+FW-11024,2026-03-28,Wei Martinez,East,Electronics,Webcam 1080p,2,59.0,Website
+FW-10953,3/26/2026,Jack White,West,electronics,Laptop Stand Aluminum,1,42.0,Website
+FW-11211,2026-05-21,Omar Brown,South,Home,Throw Blanket,one,35.0,Website
+FW-10748,12/16/2025,Rosa Rivera,Midwest,Home,Area Rug 5x7,1,149.0,Website
+FW-10664,7/22/2025,Omar Garcia,East,Home,Ceramic Table Lamp,2,48.0,Marketplace
+FW-11300,2026-04-07,Ken Hall,Midwest,Home,Curtain Panel Pair,1,39.0,Social
+FW-10583,"Sep 10, 2025",Paul Wilson,South,Home,Picture Frame Set,1,22.0,Website
+FW-11150,2026-05-23,Tara Brown,Midwest,Office,Whiteboard 36in  ,1,55.0,Website
+FW-11122,"Jun 19, 2026",Priya Nguyen,South, Office,Whiteboard 36in,2,55.0,Marketplace
+FW-11224,5/6/2026,Ken Lee,West,Kitchen,Electric Kettle,1,52.0,Marketplace
+FW-10974,2026-03-02,Hannah Chen,Midwest,Electronics,Bluetooth Speaker Mini,3,39.0,Social
+FW-10639,2025-07-12,Jack Patel,West,Electronics,Bluetooth Speaker Mini,3,39.0,Website
+FW-11288,5/18/2026,Grace Lee,South,Office,LED Desk Lamp,1,32.0,Marketplace
+FW-10939,2026-02-21,Hannah Chen,south,Kitchen,Cast Iron Skillet 12in,1,44.0,Website
+FW-10752,2025-10-31,James Nguyen,South,Home,Ceramic Table Lamp  ,2,$48.00,Website
+FW-11083,"Mar 14, 2026",Miguel Young,South,Home,Area Rug 5x7,1,149.0,Marketplace
+FW-10647,"Sep 18, 2025",Wei White,East,Electronics,Laptop Stand Aluminum,1,42.0,Marketplace
+FW-10732,10/28/2025,Sam Wilson,Midwest,Home,Throw Blanket,3,35.0,Marketplace
+FW-10975,"Feb 28, 2026",Sofia Chen,Midwest,Home,Picture Frame Set,2,22.0,Marketplace
+FW-10724,2025-10-13,Luis Young,East,Electronics,Wireless Charging Pad,1,29.0,Website
+FW-10550,9/25/2025,Luis Chen,West,Home,Scented Candle Trio,3,28.0,Social
+FW-11272,2026-04-23,Beth Smith,East,Kitchen,French Press 34oz,1,36.0,Marketplace
+FW-10521,2025-07-15,Hannah Campbell,West,Home,Ceramic Table Lamp,1,48.0,Website
+FW-10556,8/30/2025,Dana Harris,,Electronics,Laptop Stand Aluminum,2,42.0,Website
+FW-10626,2025-07-23,Raj Anderson,East,Office,Monitor Arm,2,45.0,Marketplace
+FW-10753,"Oct 29, 2025",Carlos White,Midwest,Home,Scented Candle Trio,2,28.0,Marketplace
+FW-10951,2026-02-18,Luis Young,South,home,Curtain Panel Pair,1,39.0,Marketplace
+FW-10565,8/24/2025,Raj Wilson,West,Office,Desk Organizer Set,1,24.0,Website
+FW-10977,3/19/2026,Carlos Anderson,Midwest,Home,Picture Frame Set,1,22.0,Social
+FW-10603,"Jul 10, 2025",Jack Davis,South,Home,Ceramic Table Lamp,1,48.0,Marketplace
+FW-10850,2025-10-23,Beth Martinez,West,Office,Keyboard Wrist Rest,1,$15.00,Marketplace
+FW-11098,2026-03-31,Grace King,,Kitchen,Bamboo Cutting Board,1,27.0,Website
+FW-10848,11/27/2025,Tara Chen,East,Home,Ceramic Table Lamp,3,48.0,Website
+FW-10589,7/15/2025,Dana Brown,East,Office,Keyboard Wrist Rest,3,15.0,Marketplace
+FW-11086,2026-02-20,Maria Green,South,Home,Area Rug 5x7,2,149.0,Website
+FW-10898,11/27/2025,Maria Johnson,West,Office,Keyboard Wrist Rest,2,15.0,Website
+FW-10829,10/13/2025,Tara King,South,Office,Keyboard Wrist Rest,1, 15.0 ,Social
+FW-10920,2026-03-13,Lily Lewis,West,Home,Ceramic Table Lamp,1,48.0,Marketplace
+FW-10607,9/3/2025,Luis Adams,Midwest,Electronics,Smart Plug 4-Pack,1,34.0,Website
+FW-10900,2025-12-05,Tara Lewis,South,KITCHEN,Bamboo Cutting Board,1,27.0,Website
+FW-10821,2025-11-01,Daniel King,East,Home,Scented Candle Trio,1,28.0,Marketplace
+FW-10833,2025-12-11,Wei Green,West,Kitchen,Cold Brew Pitcher,4,31.0,Marketplace
+FW-10534,7/14/2025,Dana Brown,South,Kitchen,Spice Rack Carousel,1,33.0,Website
+FW-10526,2025-09-10,Beth Wilson,South,Electronics,Wireless Charging Pad,1,$29.00,Website
+FW-10742,2025-10-12,Luis Campbell,West,ELECTRONICS,Laptop Stand Aluminum,1,42.0,Marketplace
+FW-11080,2026-03-01,Priya Jackson,West,Electronics,Webcam 1080p,1,59.0,Website
+FW-11189,2026-06-13,Paul Hall,Midwest,Electronics,Laptop Stand Aluminum,2,42.0,Website
+FW-11102,"May 14, 2026",Ethan Johnson,West,Office,Standing Desk Riser,1,89.0,Social
+FW-10884,"Oct 8, 2025",Maria Martinez,West,Home,Area Rug 5x7,1,149.0,Website
+FW-10949,3/2/2026,Emily Chen,,Kitchen,Cast Iron Skillet 12in,3,44.0,Website
+FW-10522,7/9/2025,Aisha Rivera,South,Electronics,Bluetooth Speaker Mini,4,39.0,Website
+FW-10544,2025-08-15,Omar Walker,West,Home,Throw Blanket,4,35.0,Website
+FW-10924,"Jan 15, 2026",Lily Nguyen,West,Kitchen,Spice Rack Carousel,1,33.0,Marketplace
+FW-10532,2025-08-26,Ethan Anderson,West,Kitchen,Spice Rack Carousel,3,33.0,Social
+FW-11143,2026-05-13,Chloe Patel,West,ELECTRONICS,USB-C Hub 7-Port,1,49.0,Social
+FW-10734,2025-12-28,Priya Green,East,Kitchen,Knife Block Set,2,95.0,Social
+FW-10585,2025-09-23,Luis Patel,West,Office,Keyboard Wrist Rest,2,15.0,Website
+FW-11124,"Jun 25, 2026",Raj Young,West,electronics,USB-C Hub 7-Port,4,49.0,Website
+FW-10969,2026-03-08,Tara Lee,East,home,Scented Candle Trio  ,1,28.0,Social
+FW-11250,"May 19, 2026",Victor Campbell,West,Office,Filing Cabinet,2,129.0,Website
+FW-10877,11/1/2025,Luis Clark,East,Electronics,Cable Management Kit,1,18.0,Marketplace
+FW-11069,2026-03-16,Victor Campbell,East,Electronics,USB-C Hub 7-Port,1,49.0,Marketplace
+FW-11020,3/4/2026,Andre Baker,Midwest,Home,Scented Candle Trio,2,28.0,Marketplace
+FW-11109,"May 16, 2026",Sofia Lee,Midwest,Home,Scented Candle Trio  ,1,28.0,Social
+FW-10577,2025-07-10,Carlos Johnson,West,Office,Monitor Arm,3,45.0,Marketplace
+FW-11039,2026-03-22,Ethan Hall,Midwest,kitchen,Spice Rack Carousel,1,33.0,Website
+FW-11202,2026-05-21,Sam Lee,South,Home,Ceramic Table Lamp,1,48.0,Marketplace
+FW-11162,2026-06-18,Omar Jackson,South,Home,Ceramic Table Lamp,1,$48.00,Website
+FW-10747,2025-12-27,Hannah Nguyen,South,Kitchen,Knife Block Set,2,95.0,Website
+FW-11132,6/25/2026,Priya Rivera,south,Home,Throw Blanket,1,35.0,Social
+FW-10588,9/24/2025,Ethan King,,Office,LED Desk Lamp,4,32.0,Marketplace
+FW-11245,2026-05-14,Daniel Wilson,West,Kitchen,Knife Block Set,1,95.0,Marketplace
+FW-10794,"Nov 19, 2025",Emily Taylor,West,Kitchen,Electric Kettle,1,52.0,Website
+FW-10697,2025-08-21,Victor King,East,Office,Keyboard Wrist Rest,3,15.0,Website
+FW-10610,2025-07-10,Omar Anderson,South,KITCHEN,Glass Storage 10-Piece,1,38.0,Website
+FW-11097,2026-03-01,Daniel Brown,East,Home,Storage Ottoman,1,89.0,Website
+FW-10871,11/25/2025,Emily Campbell,Midwest,Electronics,USB-C Hub 7-Port,4,49.0,Website
+FW-10566,2025-08-02,Nina Taylor,West,Electronics,Wireless Charging Pad,1,29.0,Website
+FW-10652,2025-07-28,Daniel King,East,Office,Standing Desk Riser,1,89.0,Website
+FW-10785,2025-10-04,Aisha Clark,East,Home,Picture Frame Set,1,22.0,Marketplace
+FW-11238,2026-06-28,Jack Johnson,West,Home,Wall Shelf Set,2,42.0,Website
+FW-11118,"Apr 7, 2026",Victor Smith,Midwest,Home,Area Rug 5x7,1,149.0,Social
+FW-11214,6/28/2026,Rosa Harris,Midwest,Kitchen,Cold Brew Pitcher,1,31.0,Website
+FW-11226,"May 12, 2026",James Rivera,South,Home,Picture Frame Set,1,22.0,Social
+FW-11149,2026-04-29,Sam Garcia,East,Kitchen,Bamboo Cutting Board,2,27.0,Website
+FW-10982,2026-02-01,Beth Martinez,Midwest,Office,Whiteboard 36in,1,55.0,Website
+FW-10745,"Nov 13, 2025",Maria Walker,West,Electronics,Smart Plug 4-Pack,1,34.0,Website
+FW-11170,2026-04-24,Dana Walker,East,Kitchen,Glass Storage 10-Piece,2, 38.0 ,Marketplace
+FW-11059,"Mar 10, 2026",Omar Taylor,West,Office,Whiteboard 36in,1,55.0,Marketplace
+FW-11016,2/11/2026,Maria Anderson,East,Electronics,Cable Management Kit,4,18.0,Social
+FW-10680,2025-09-06,Lily King,East,Office,Standing Desk Riser,1,89.0,Website
+FW-10769,2025-10-21,Lily Scott,South,Home,Picture Frame Set,3,22.0,Social
+FW-10763,"Nov 27, 2025",Ken Smith,Midwest,Electronics,Wireless Charging Pad,1,29.0,Social
+FW-11021,2026-01-01,Paul Campbell,Midwest,Kitchen,Glass Storage 10-Piece,2,38.0,Marketplace
+FW-10858,"Dec 11, 2025",Jack Clark,West,Electronics,Laptop Stand Aluminum,1,42.0,Website
+FW-10985,2026-02-21,Carlos Jackson,West,Kitchen,Cold Brew Pitcher,1,31.0,Marketplace
+FW-10716,11/11/2025,Priya Jackson,West,Kitchen,Glass Storage 10-Piece,1,38.0,Website
+FW-10709,"Oct 2, 2025",Emily White,West,Kitchen,Glass Storage 10-Piece,1,38.0,Marketplace
+FW-10948,2/2/2026,Beth Patel,South,Office,Desk Organizer Set,1,24.0,Website
+FW-10808,2025-10-08,Jack Green,West,Office,Filing Cabinet,2,129.0,Website
+FW-11160,5/6/2026,Raj Chen,West,Electronics,Laptop Stand Aluminum,1,42.0,Social
+FW-11247,2026-05-13,Wei Davis,West,Home,Picture Frame Set,1,22.0,Social
+FW-10611,2025-07-30,Maria Nguyen,East,Office,Keyboard Wrist Rest,3,15.0,Social
+FW-10735,2025-10-25,Sam Rivera,West,Office,Ergonomic Desk Chair  ,1,179.0,Social
+FW-10901,2026-03-18,James Anderson,South, Office,LED Desk Lamp  ,1,32.0,Website
+FW-10698,2025-08-15,James Jackson,South,Kitchen,Bamboo Cutting Board,1,27.0,Marketplace
+FW-10852,"Dec 5, 2025",Nina Taylor,West,Kitchen,Bamboo Cutting Board,1,27.0,Website
+FW-10574,2025-07-17,Wei Smith,South,Kitchen,Cold Brew Pitcher,2,31.0,Website
+FW-10684,2025-09-18,Ethan Rivera,West,Home,Throw Blanket,1,35.0,Website
+FW-10957,"Feb 14, 2026",Luis Green,west,Office,Whiteboard 36in,1,55.0,Marketplace
+FW-10691,"Jul 21, 2025",Dana Wilson,east,Electronics,Wireless Charging Pad,1,29.0,Social
+FW-10933,2026-01-08,Aisha Young,South,Office,Standing Desk Riser,1,89.0,Website
+FW-10966,2026-01-22,Omar Patel,West,Electronics,Bluetooth Speaker Mini,2,39.0,Marketplace
+FW-10553,9/20/2025,Beth Moore,Midwest,Electronics,Laptop Stand Aluminum,1,42.0,Social
+FW-11071,2026-02-21,James Wright,East,Electronics,Laptop Stand Aluminum,1,42.0,Website
+FW-10594,2025-09-22,Grace Martinez,South,Office,Keyboard Wrist Rest,1,15.0,Marketplace
+FW-10796,"Nov 6, 2025",Victor Clark,East,Kitchen,Cold Brew Pitcher,2,31.0,Website
+FW-11043,"Feb 19, 2026",Wei Davis,West,Electronics,USB-C Hub 7-Port,1,49.0,Marketplace
+FW-11131,"Jun 4, 2026",Miguel Baker,West,Electronics,Bluetooth Speaker Mini,1,39.0,Website
+FW-10983,2026-02-01,Ken Wright,West,Office,Monitor Arm,2,45.0,Social
+FW-11010,2/2/2026,Jack Wilson,East,Home,Throw Blanket,2,35.0,Website
+FW-10901,2026-03-18,James Anderson,South, Office,LED Desk Lamp  ,1,32.0,Website
+FW-11215,2026-05-09,Chloe Brown,Midwest,Electronics,Wireless Charging Pad,1,$29.00,Marketplace
+FW-11205,2026-04-24,Daniel Jackson,Midwest,Office,Standing Desk Riser,2,89.0,Website
+FW-10639,2025-07-12,Jack Patel,West,Electronics,Bluetooth Speaker Mini,3,39.0,Website
+FW-11179,2026-04-18,Omar Adams,midwest,Office,LED Desk Lamp,2,32.0,Marketplace
+FW-10902,"Mar 26, 2026",Ethan Taylor,South,office,Filing Cabinet,1,129.0,Website
+FW-11030,2/8/2026,Maria Davis,East,Home,Area Rug 5x7,4,149.0,Website
+FW-10704,10/20/2025,Dana Walker,East,Home,Wall Shelf Set,,42.0,Social
+FW-10986,"Mar 22, 2026",Rosa White,West,Home,Curtain Panel Pair,2,39.0,Marketplace
+FW-11263,"Jun 9, 2026",Lily Lewis,West,Kitchen,Cold Brew Pitcher,1,31.0,Social
+FW-10895,"Oct 24, 2025",Daniel Garcia,West,Home,Curtain Panel Pair,3,39.0,Website
+FW-11105,6/4/2026,Ethan Anderson,Midwest,Kitchen,Cast Iron Skillet 12in,1,44.0,Marketplace
+FW-10838,"Nov 9, 2025",Ethan Green,South,Kitchen,Knife Block Set,one,95.0,Website
+FW-10579,7/22/2025,Chloe Clark,Midwest,Electronics,Wireless Charging Pad,2,$29.00,Marketplace
+FW-10675,2025-07-28,Emily Baker,West,Office,Ergonomic Desk Chair,1,179.0,Website
+FW-11056,2026-02-06,Chloe Hall,West,Office,Monitor Arm,2,45.0,Marketplace
+FW-10910,2026-03-22,Ethan Nguyen,Midwest,Electronics,Bluetooth Speaker Mini,1,39.0,Website
+FW-10662,2025-07-22,Amy Anderson,South,Office,Monitor Arm,3,45.0,Website
+FW-11244,"Jun 5, 2026",Jack Chen,Midwest,Electronics,Noise-Isolating Earbuds,3,45.0,Marketplace
+FW-11236,2026-04-28,Paul Lee,Midwest,Home,Scented Candle Trio,1,28.0,Website
+FW-11246,2026-05-30,Priya Young,West,Home,Ceramic Table Lamp,3,48.0,Website
+FW-10908,2/26/2026,Lily Walker,West,Office,Keyboard Wrist Rest,1,15.0,Marketplace
+FW-10970,2026-01-17,Amy Garcia,East,Office,Desk Organizer Set,1,24.0,Website
+FW-11252,6/1/2026,Daniel White,West,Electronics,Bluetooth Speaker Mini,1,39.0,Website
+FW-11136,2026-06-27,Dana Martinez,West,Kitchen,Cold Brew Pitcher,1,31.0,Website
+FW-10726,"Nov 9, 2025",Maria Walker,South,Office,Monitor Arm,1,45.0,Website
+FW-10787,10/22/2025,Emily Moore,East,KITCHEN,Glass Storage 10-Piece,,38.0,Social
+FW-10699,7/12/2025,Lily Adams,South,Kitchen,Knife Block Set,1,95.0,Marketplace
+FW-10679,8/1/2025,Dana Nguyen,South,Electronics,Smart Plug 4-Pack,1, 34.0 ,Website
+FW-11133,2026-06-14,Tara Nguyen,Midwest,OFFICE,Standing Desk Riser,1,89.0,Marketplace
+FW-10999,2026-03-02,Emily Green,West,Office,Whiteboard 36in,2,55.0,Website
+FW-10718,"Dec 6, 2025",Nina Clark,East,Home,Wall Shelf Set,2,42.0,Marketplace
+FW-11094,2026-01-17,Chloe Taylor,West,Electronics,Wireless Charging Pad,1,29.0,Website
+FW-11066,"Feb 19, 2026",Tara Baker,East,Home,Curtain Panel Pair,1,39.0,Website
+FW-10930,"Feb 22, 2026",Sam White,Midwest,Home,Ceramic Table Lamp,3,48.0,Website
+FW-10925,"Mar 29, 2026",Raj Chen,Midwest,Kitchen,Cold Brew Pitcher,1,31.0,Website
+FW-10823,10/5/2025,Maria Rivera,Midwest,electronics,Wireless Charging Pad,two,29.0,Marketplace
+FW-11042,"Mar 11, 2026",Wei Nguyen,South,Home,Throw Blanket,1,35.0,Marketplace
+FW-10802,2025-10-02,Miguel Chen,East,Kitchen,Bamboo Cutting Board,1,27.0,Marketplace
+FW-10968,2026-01-18,Omar Lee,South,Home,Storage Ottoman,1,89.0,Website
+FW-10916,3/7/2026,Maria Anderson,Midwest,Office,Keyboard Wrist Rest,,15.0,Social
+FW-10524,2025-09-03,Sofia Taylor,south,Office,Whiteboard 36in,1,55.0,Website
+FW-10548,2025-07-31,Emily Chen,East,Office,Ergonomic Desk Chair,3,179.0,Marketplace
+FW-10784,"Oct 5, 2025",Ken Young,Midwest,Electronics,Smart Plug 4-Pack,1,34.0,Website
+FW-11008,2026-03-07,Tara Patel,West,Kitchen,Cold Brew Pitcher,2,31.0,Website
+FW-10625,2025-07-25,Hannah Hall,East,Office,Whiteboard 36in,1,55.0,Marketplace
+FW-10546,8/6/2025,Priya King,South,Office,Standing Desk Riser,2,89.0,Marketplace
+FW-11067,3/2/2026,Miguel Rivera,East,Home,Wall Shelf Set,1,42.0,Website
+FW-10512,2025-08-25,Luis Garcia,East, Kitchen,Electric Kettle,1,52.0,Marketplace
+FW-10674,"Aug 24, 2025",Beth Campbell,Midwest,Home,Throw Blanket,2,35.0,Website
+FW-10701,2025-12-20,Raj Garcia,East,Office,Ergonomic Desk Chair,2,179.0,Website
+FW-11261,2026-05-30,Aisha Clark,East,Electronics,USB-C Hub 7-Port,,49.0,Marketplace
+FW-10508,"Jul 31, 2025",Dana Martinez,South,Electronics,Noise-Isolating Earbuds,2,45.0,Website
+FW-11281,6/20/2026,Emily Garcia,South,Home,Curtain Panel Pair,2,39.0,Marketplace
+FW-11177,4/26/2026,Beth Lewis,South,Kitchen,Glass Storage 10-Piece,2,$38.00,Marketplace
+FW-10501,"Sep 12, 2025",Jack Lee,East,Home,Curtain Panel Pair,1,39.0,Website
+FW-10736,2025-12-10,Omar Garcia,South,Office,Filing Cabinet,3,$129.00,Marketplace
+FW-11168,5/27/2026,Sofia Young,Midwest,Kitchen,Bamboo Cutting Board,1,27.0,Marketplace
+FW-11174,2026-06-25,Victor Harris,Midwest,Office,Monitor Arm,1,$45.00,Website
+FW-10960,2026-03-15,Ken White,West,Electronics,Noise-Isolating Earbuds,3,45.0,Marketplace
+FW-11209,2026-06-11,Daniel Young,,HOME,Picture Frame Set,3,22.0,Website
+FW-10938,2026-03-14,Maria Brown,east,office,Filing Cabinet,2,129.0,Website
+FW-10529,9/4/2025,Omar Anderson,South,office,Ergonomic Desk Chair,2,179.0,Marketplace
+FW-11051,3/9/2026,Omar Smith,West,Office,Whiteboard 36in,1,55.0,Website
+FW-10989,"Jan 21, 2026",Rosa Wilson,Midwest,Office,Monitor Arm,1,45.0,Marketplace
+FW-10730,2025-11-07,Jack Hall,South,Kitchen,French Press 34oz,1,$36.00,Website
+FW-10731,"Oct 11, 2025",Maria Patel,South,Kitchen,Cold Brew Pitcher,2,31.0,Website
+FW-10875,10/14/2025,Rosa Jackson,Midwest,Home,Throw Blanket,3,$35.00,Website
+FW-11298,6/4/2026,Paul Moore,South,Office,Whiteboard 36in,1,55.0,Marketplace
+FW-11002,2/10/2026,Andre Hall,Midwest,Office,LED Desk Lamp,2,32.0,Social
+FW-11015,3/24/2026,Hannah Smith,South,Electronics,Webcam 1080p  ,1,59.0,Website
+FW-11241,2026-05-11,Nina Smith,East,Kitchen,Bamboo Cutting Board,1,27.0,Marketplace
+FW-11011,2026-03-13,Jack Brown,,OFFICE,Ergonomic Desk Chair,2,179.0,Marketplace
+FW-11047,"Feb 26, 2026",Omar Moore,South,Kitchen,Cast Iron Skillet 12in,1,44.0,Marketplace
+FW-11192,2026-04-26,Tara King,Midwest,Electronics,Laptop Stand Aluminum,1,42.0,Website
+FW-11266,2026-05-21,Daniel Anderson,Midwest,Kitchen,Cast Iron Skillet 12in,1,44.0,Website
+FW-10932,2026-01-17,Victor Anderson,East,Electronics,USB-C Hub 7-Port,1,49.0,Website
+FW-10909,"Feb 23, 2026",Lily Davis,West,Electronics,Webcam 1080p,2,59.0,Website
+FW-10872,2025-10-05,James Anderson,West,Kitchen,Cold Brew Pitcher,1,31.0,Marketplace
+FW-10774,10/17/2025,Amy Harris,Midwest,Office,LED Desk Lamp,2,32.0,Website
+FW-10575,7/20/2025,Tara Wright,east,Electronics,Bluetooth Speaker Mini,2,39.0,Website
+FW-10557,7/26/2025,Nina White,South,Office,Desk Organizer Set,2,24.0,Website
+FW-11279,2026-04-16,Emily Rivera,East,Office,Ergonomic Desk Chair,1, 179.0 ,Website
+FW-10624,"Jul 4, 2025",Raj Wright,East,Electronics,Cable Management Kit,1,18.0,Website
+FW-11145,2026-06-18,Sofia Moore,East,Kitchen,Glass Storage 10-Piece,1,38.0,Website
+FW-11039,2026-03-22,Ethan Hall,Midwest,kitchen,Spice Rack Carousel,1,33.0,Website
+FW-11187,2026-04-27,Nina Martinez,Midwest,Electronics,Smart Plug 4-Pack,1,34.0,Marketplace
+FW-10915,2026-03-06,Emily Johnson,South,electronics,Cable Management Kit,2,18.0,Website
+FW-10921,"Feb 5, 2026",Nina Martinez,West,Kitchen,Cast Iron Skillet 12in,1,44.0,Website
+FW-10917,2026-02-05,Miguel Brown,East,Office,Filing Cabinet,2,129.0,Social
+FW-10539,2025-07-10,James Lee,Midwest,Home,Wall Shelf Set,2,42.0,Website
+FW-10878,10/4/2025,Luis Anderson,Midwest,Home,Ceramic Table Lamp,4,48.0,Marketplace
+FW-10609,"Sep 19, 2025",Daniel Anderson,East,Electronics,Cable Management Kit,3, 18.0 ,Website
+FW-10515,9/6/2025,Daniel Jackson,West,Office,Keyboard Wrist Rest,1,15.0,Website
+FW-10972,2026-03-11,Miguel Lee,South,Home,Wall Shelf Set,2,42.0,Website
+FW-10537,9/26/2025,Victor Garcia,Midwest,Electronics,Bluetooth Speaker Mini,2,39.0,Marketplace
+FW-10559,2025-08-02,Raj Clark,East,Electronics,Wireless Charging Pad,1,29.0,Marketplace
+FW-11087,2026-01-12,Victor Hall,West,OFFICE,Monitor Arm,1,45.0,Marketplace
+FW-11165,4/4/2026,Priya Garcia,East,Electronics,Webcam 1080p,2,59.0,Website
+FW-11092,1/27/2026,Andre Lee,Midwest,Electronics,USB-C Hub 7-Port,1,49.0,Website
+FW-11225,4/25/2026,Wei Garcia,South,Electronics,Noise-Isolating Earbuds,2,45.0,Marketplace
+FW-10720,2025-12-24,Raj White,West,Office,Whiteboard 36in,1,55.0,Website
+FW-10855,2025-12-19,Sofia Davis,Midwest,Electronics,Noise-Isolating Earbuds,1,45.0,Social
+FW-10814,11/4/2025,Jack Brown,Midwest,Kitchen,Cast Iron Skillet 12in,2,44.0,Social
+FW-10507,7/28/2025,Aisha Scott,midwest,Office,Keyboard Wrist Rest,1,15.0,Website
+FW-10659,"Sep 23, 2025",Beth Lewis,West,Home,Scented Candle Trio,2,28.0,Marketplace
+FW-11081,2026-01-17,James Wilson,South,Electronics,Webcam 1080p,2,59.0,Marketplace
+FW-10896,"Dec 6, 2025",Jack White,West,Electronics,Bluetooth Speaker Mini,1,39.0,Marketplace
+FW-10636,9/1/2025,Aisha Harris,East,Kitchen,Spice Rack Carousel,1,33.0,Website
+FW-11070,"Jan 15, 2026",Lily Baker,South,Home,Throw Blanket,2,35.0,Marketplace
+FW-11188,"May 1, 2026",Tara Johnson,Midwest,Electronics,Bluetooth Speaker Mini,1,39.0,Website
+FW-10863,2025-10-14,Emily Young,East,Home,Area Rug 5x7  ,2,149.0,Marketplace
+FW-11040,2026-01-31,Wei White,West,Kitchen,Glass Storage 10-Piece,1,38.0,Marketplace
+FW-10849,10/31/2025,Beth Nguyen,Midwest,Kitchen,Spice Rack Carousel,2,$33.00,Marketplace
+FW-10723,10/13/2025,Dana Martinez,East,Electronics,Bluetooth Speaker Mini,1,39.0,Marketplace
+FW-11181,5/30/2026,Tara Green,East,Office,Ergonomic Desk Chair,1,179.0,Website
+FW-10830,"Dec 25, 2025",Chloe Wright,East,Kitchen,Knife Block Set,2,95.0,Website
+FW-11270,6/15/2026,Chloe Harris,South,Electronics,Bluetooth Speaker Mini,2,39.0,Website
+FW-11225,4/25/2026,Wei Garcia,South,Electronics,Noise-Isolating Earbuds,2,45.0,Marketplace
+FW-11053,2026-01-24,Lily Lee,East,KITCHEN,French Press 34oz,1,36.0,Website
+FW-10991,2026-01-21,Lily Davis,Midwest,Office,Desk Organizer Set,1,24.0,Website
+FW-11216,4/12/2026,Sam Harris,East,Home,Curtain Panel Pair,2,39.0,Social
+FW-10772,2025-10-11,Priya Anderson,East,Kitchen,Spice Rack Carousel,2,33.0,Website
+FW-11157,2026-06-13,Miguel Lewis,East,Electronics,Smart Plug 4-Pack,1,34.0,Marketplace
+FW-10981,2026-02-10,Aisha Brown,west,Kitchen,Knife Block Set,2,95.0,Website
+FW-11196,2026-05-28,Grace Wright,East,Kitchen,Spice Rack Carousel,1,33.0,Marketplace
+FW-11253,2026-05-04,Emily Rivera,West,OFFICE,Desk Organizer Set,1,24.0,Website
+FW-10518,9/20/2025,Paul Walker,West,kitchen,Cast Iron Skillet 12in,3,44.0,Marketplace
+FW-10568,"Jul 1, 2025",Grace Green,Midwest,Kitchen,Cast Iron Skillet 12in,1,44.0,Website
+FW-11077,1/1/2026,Ethan Lee,Midwest,HOME,Wall Shelf Set,2,42.0,Website
+FW-11200,2026-05-01,James Taylor,South,Kitchen,Electric Kettle,4,52.0,Marketplace
+FW-11191,6/4/2026,Paul Hall,South,Electronics,Laptop Stand Aluminum,2,42.0,Marketplace
+FW-10620,7/22/2025,Emily Baker,South,Office,Monitor Arm,1,45.0,Website
+FW-11154,"May 22, 2026",Luis Wilson,Midwest,Kitchen,Knife Block Set,2,95.0,Marketplace
+FW-11134,5/18/2026,Omar Patel,South,Home,Picture Frame Set,1,22.0,Marketplace
+FW-10651,"Sep 17, 2025",Jack Adams,West,Home,Throw Blanket,1,35.0,Website
+FW-11159,6/14/2026,Ethan Adams,Midwest,Electronics,USB-C Hub 7-Port,1,49.0,Social
+FW-10962,3/14/2026,Raj Smith,East,Electronics,Webcam 1080p,1,59.0,Website
+FW-10592,9/24/2025,Miguel Clark,West, Kitchen,Glass Storage 10-Piece,1,38.0,Marketplace
+FW-11222,"Jun 25, 2026",Lily Wilson,West,Electronics,Bluetooth Speaker Mini,3,39.0,Marketplace
+FW-10650,2025-08-21,Carlos Moore,South,Electronics,Cable Management Kit,one,18.0,Website
+FW-10766,11/30/2025,Dana Nguyen,East,office,LED Desk Lamp,1,32.0,Marketplace
+FW-10541,2025-09-18,Beth White,East, Kitchen,Knife Block Set,1,95.0,Website
+FW-10576,2025-08-03,Andre Patel,South,Kitchen,Electric Kettle,2,52.0,Website
+FW-10880,11/14/2025,Rosa Wright,West,Office,Whiteboard 36in,1,55.0,Website
+FW-10906,2026-01-13,Paul Adams,south,Kitchen,French Press 34oz,1,36.0,Website
+FW-11110,2026-05-20,Dana White,East,Home,Area Rug 5x7,2,149.0,Social
+FW-11085,2026-02-27,Hannah Wilson,South,Office,Ergonomic Desk Chair,3,179.0,Marketplace
+FW-10621,2025-08-06,Miguel Brown,Midwest,Home,Throw Blanket,1,35.0,Website
+FW-11275,4/9/2026,Rosa Martinez,South,Home,Ceramic Table Lamp,2,48.0,Website
+FW-10627,2025-09-19,Sofia Garcia,East,OFFICE,LED Desk Lamp,1,32.0,Marketplace
+FW-10798,2025-11-30,Rosa Lee,West,Electronics,Bluetooth Speaker Mini,1,39.0,Marketplace
+FW-11058,"Mar 9, 2026",Daniel Adams,West,Office,Monitor Arm,2,45.0,Website
+FW-11065,2026-03-01,Andre King,East,Electronics,Cable Management Kit,2,18.0,Website
+FW-10516,2025-07-03,Carlos Brown,South,Home,Picture Frame Set,1,22.0,Social
+FW-10514,9/27/2025,Priya Campbell,South,Office,Filing Cabinet  ,1,129.0,Marketplace
+FW-10504,"Sep 10, 2025",Ken Taylor,East,Kitchen,French Press 34oz,1,36.0,Marketplace
+FW-11184,2026-06-07,Daniel White,South,Home,Ceramic Table Lamp,1,48.0,Social
+FW-10737,12/25/2025,Daniel Harris,West,ELECTRONICS,Wireless Charging Pad,1,29.0,Website
+FW-10889,2025-11-24,Lily White,Midwest,Home,Storage Ottoman,1,89.0,Marketplace
+FW-10887,2025-12-27,Victor Chen,East,Kitchen,Electric Kettle,1,52.0,Website
+FW-10768,10/6/2025,Raj Wright,West,Electronics,Wireless Charging Pad,1,29.0,Website
+FW-10888,2025-11-04,Amy Lewis,East,Electronics,Smart Plug 4-Pack,1,34.0,Website
+FW-10860,10/18/2025,Carlos King,Midwest,Electronics,Cable Management Kit,2,18.0,Social
+FW-10952,2026-01-30,Hannah Baker,West,Office,Keyboard Wrist Rest,1,15.0,Website
+FW-10994,2/23/2026,Jack King,Midwest,Home,Picture Frame Set,2,22.0,Marketplace
+FW-10779,"Dec 11, 2025",Raj Lewis,South,Home,Throw Blanket,2,35.0,Website
+FW-10843,"Oct 8, 2025",Sofia Harris,West,Electronics,Webcam 1080p,1,59.0,Website
+FW-10828,2025-10-12,Ethan White,South,home,Area Rug 5x7,1,149.0,Marketplace
+FW-10642,"Sep 7, 2025",Sam Wright,West,Home,Area Rug 5x7,3,149.0,Social
+FW-10643,2025-09-25,Priya Clark,Midwest,KITCHEN,Cold Brew Pitcher,3,31.0,Social
+FW-11276,6/8/2026,Ethan Chen,Midwest,Kitchen,Electric Kettle,1,52.0,Website
+FW-11095,3/15/2026,Ethan Harris,South,Kitchen,Spice Rack Carousel,1,33.0,Marketplace
+FW-11217,4/7/2026,Rosa Wilson,West,ELECTRONICS,Laptop Stand Aluminum,1,42.0,Social
+FW-11289,2026-06-19,Aisha Adams,Midwest,Electronics,Laptop Stand Aluminum,1,42.0,Marketplace
+FW-10762,"Nov 17, 2025",Andre Moore,West,electronics,Bluetooth Speaker Mini,3,39.0,Website
+FW-10761,"Dec 28, 2025",Amy Garcia,West,Kitchen,Glass Storage 10-Piece,3,38.0,Marketplace
+FW-10810,10/9/2025,Paul Rivera,East,Electronics,Smart Plug 4-Pack,2,34.0,Website
+FW-11185,2026-05-19,Maria Chen,Midwest,Home,Storage Ottoman,1,89.0,Website
+FW-11231,2026-05-12,Grace White,South,kitchen,Knife Block Set,1,95.0,Social
+FW-11107,2026-05-19,Grace Anderson,,Home,Throw Blanket,1,35.0,Website
+FW-10805,10/4/2025,James Moore,East,HOME,Ceramic Table Lamp,3,48.0,Website
+FW-10590,9/20/2025,Nina Nguyen,Midwest,Home,Picture Frame Set,2,22.0,Social
+FW-11199,"Jun 24, 2026",Ken Chen,East,Office,LED Desk Lamp,1,32.0,Marketplace
+FW-10853,"Oct 8, 2025",Chloe Rivera,Midwest,Office,LED Desk Lamp,3,32.0,Website
+FW-10503,2025-09-11,Sofia Harris,South,Kitchen,Cast Iron Skillet 12in,1,44.0,Marketplace
+FW-10634,2025-09-30,Wei Young,Midwest,Home,Area Rug 5x7,1,149.0,Website
+FW-10663,"Jul 21, 2025",Andre Moore,South,Electronics,Cable Management Kit,1,18.0,Social
+FW-10856,11/29/2025,Amy Jackson,East,Home,Curtain Panel Pair,3,39.0,Website
+FW-10641,7/2/2025,Hannah Moore,West,Home,Area Rug 5x7,3,149.0,Website
+FW-10806,"Nov 26, 2025",Paul Wright,West,Home,Wall Shelf Set,1,42.0,Website
+FW-10545,2025-09-03,Rosa Scott,South,Home,Scented Candle Trio,1,28.0,Website
+FW-10733,2025-10-24,Maria Nguyen,East,Electronics,Cable Management Kit,1,18.0,Website
+FW-10873,2025-11-05,Maria Taylor,Midwest,Kitchen,Knife Block Set,1,95.0,Website
+FW-11283,"May 11, 2026",Sam Harris,West,Office,Monitor Arm,1, 45.0 ,Website
+FW-10552,2025-09-03,Luis Scott,South,Electronics,Laptop Stand Aluminum,2,$42.00,Social
+FW-10722,2025-12-11,Hannah Hall,East,kitchen,Cast Iron Skillet 12in,1,44.0,Marketplace
+FW-10786,2025-12-20,Daniel Taylor,South,ELECTRONICS,Laptop Stand Aluminum,2,42.0,Website
+FW-10967,3/27/2026,Omar Rivera,East,electronics,Smart Plug 4-Pack,1,34.0,Marketplace
+FW-11156,2026-04-04,Miguel Martinez,south,Home,Storage Ottoman,1,89.0,Website
+FW-11210,"May 8, 2026",Wei Johnson,South,HOME,Throw Blanket,3,$35.00,Website
+FW-10804,2025-11-25,Aisha Rivera,Midwest,Kitchen,Glass Storage 10-Piece,3,$38.00,Website
+FW-11013,3/28/2026,Omar Walker,East,Home,Storage Ottoman,1,89.0,Website
+FW-10727,2025-12-30,Sam Hall,Midwest, Home,Storage Ottoman,2, 89.0 ,Social
+FW-10812,2025-12-25,Ethan Baker,South,Electronics,USB-C Hub 7-Port,3,49.0,Website
+FW-11158,"Apr 28, 2026",Priya Adams,West,Office,Ergonomic Desk Chair,2, 179.0 ,Website
+FW-10669,2025-08-17,Tara Lewis,West,Electronics,Webcam 1080p,1,59.0,Marketplace
+FW-11151,2026-04-16,Raj Rivera,Midwest,HOME,Storage Ottoman,1,89.0,Website
+FW-10502,7/14/2025,Amy White,South,Electronics,Wireless Charging Pad,1,29.0,Social
+FW-10681,2025-09-20,Jack Green,Midwest,Office,LED Desk Lamp,3,32.0,Social
+FW-11232,2026-04-19,Ken Adams,Midwest,Home,Wall Shelf Set,2,42.0,Website
+FW-11079,2/3/2026,Rosa Lee,west,Electronics,Webcam 1080p,3,59.0,Website
+FW-10623,"Aug 1, 2025",Rosa Davis,West,Kitchen,Bamboo Cutting Board,2,27.0,Marketplace
+FW-11009,2026-02-25,Luis Lewis,Midwest,Home,Wall Shelf Set,2,42.0,Marketplace
+FW-11269,2026-04-08,Amy Hall,West,Office,Standing Desk Riser,1,89.0,Social
+FW-11273,2026-04-18,Omar White,West,Office,Whiteboard 36in,1,55.0,Website
+FW-11088,2/23/2026,Daniel Smith,Midwest, Office,Standing Desk Riser,2,89.0,Marketplace
+FW-10613,"Jul 11, 2025",Tara Lee,Midwest,Home,Ceramic Table Lamp,2,48.0,Website
+FW-10573,2025-07-23,James Lewis,Midwest,Electronics,Laptop Stand Aluminum,1,42.0,Social
+FW-10606,9/16/2025,Raj Anderson,West,Electronics,Noise-Isolating Earbuds,1,45.0,Marketplace
+FW-11258,2026-06-01,Paul Taylor,East, Kitchen,Cast Iron Skillet 12in,1,44.0,Marketplace
+FW-11296,2026-04-17,James Walker,West,office,LED Desk Lamp,1,32.0,Website
+FW-10815,2025-11-07,Victor Brown,East,Office,Standing Desk Riser,1,$89.00,Website
+FW-10743,2025-12-24,Grace Anderson,West,Electronics,Bluetooth Speaker Mini,2,39.0,Website
+FW-10538,2025-09-01,Sofia Jackson,South,Office,Ergonomic Desk Chair,1,179.0,Marketplace
+FW-10523,8/25/2025,Jack Scott,South,Home,Ceramic Table Lamp,2,48.0,Website
+FW-11230,5/3/2026,Maria Chen,South,Home,Area Rug 5x7,1,149.0,Marketplace
+FW-10520,2025-09-09,Daniel Walker,East,Kitchen,Bamboo Cutting Board,2,27.0,Marketplace
+FW-10605,"Sep 12, 2025",Raj Davis,South,Home,Scented Candle Trio,3,28.0,Website
+FW-10527,"Jul 9, 2025",Aisha Rivera,South,Home,Storage Ottoman,2,89.0,Marketplace
+FW-10905,"Mar 2, 2026",Andre Wright,West,Office,Monitor Arm,2,45.0,Website
+FW-10837,2025-12-19,Wei Johnson,South,Office,Filing Cabinet,3,129.0,Website
+FW-10946,3/23/2026,Dana Davis,South,Home,Area Rug 5x7,2,149.0,Marketplace
+FW-11005,2026-01-08,Andre Garcia,,OFFICE,Keyboard Wrist Rest,1,15.0,Social
+FW-10793,"Nov 29, 2025",Lily Green,west,office,Keyboard Wrist Rest,2,15.0,Marketplace
+FW-10689,7/12/2025,Nina Harris,Midwest,Kitchen,Spice Rack Carousel,4,33.0,Website
+FW-10648,2025-09-02,Victor Clark,East,Electronics,Webcam 1080p,1,59.0,Website
+FW-10845,2025-10-31,Andre Green,South,Electronics,Webcam 1080p,1,59.0,Website
+FW-11129,5/26/2026,Sam Brown,east,Home,Curtain Panel Pair,2,39.0,Marketplace
+FW-10571,8/8/2025,Grace Garcia,,Office,Ergonomic Desk Chair,2,179.0,Marketplace
+FW-10988,"Mar 26, 2026",Chloe Jackson,East,Kitchen,Glass Storage 10-Piece,1,38.0,Social
+FW-10640,9/26/2025,Sofia Nguyen,South,Office,Ergonomic Desk Chair,,179.0,Website
+FW-10554,"Jul 7, 2025",Lily Rivera,South,Office,Keyboard Wrist Rest,2,15.0,Website
+FW-11297,"May 21, 2026",Wei Hall,West,Electronics,Bluetooth Speaker Mini,1,39.0,Marketplace
+FW-11193,2026-06-29,Beth Johnson,East,Kitchen,French Press 34oz,2,36.0,Website
+FW-10692,7/8/2025,Amy Lewis,Midwest,Home,Scented Candle Trio,2,28.0,Marketplace
+FW-10993,2026-03-28,Wei Martinez,East,electronics,Wireless Charging Pad,1,29.0,Marketplace
+FW-11147,2026-05-13,Tara Campbell,West,Kitchen,Glass Storage 10-Piece,2,38.0,Marketplace
+FW-11115,2026-06-08,Victor Clark,East,Office,Filing Cabinet,2,129.0,Marketplace
+FW-11060,2/28/2026,Emily Green,East,Kitchen,Bamboo Cutting Board,1,27.0,Marketplace
+FW-10687,2025-07-18,Ken Smith,East,kitchen,Electric Kettle,2,52.0,Marketplace
+FW-10632,8/11/2025,Paul Johnson,Midwest,Office,Filing Cabinet,3,129.0,Website
+FW-11068,2026-03-06,Aisha Taylor,East,ELECTRONICS,Wireless Charging Pad,2,29.0,Marketplace
+FW-10517,9/6/2025,Sam Smith,South,Home,Curtain Panel Pair,1,$39.00,Social
+FW-10580,2025-07-16,Dana Wilson,Midwest,Electronics,Webcam 1080p,1,59.0,Marketplace
+FW-10749,2025-10-21,Priya Taylor,West,Office,Monitor Arm,4,45.0,Marketplace
+FW-11184,2026-06-07,Daniel White,South,Home,Ceramic Table Lamp,1,48.0,Social
+FW-10746,2025-12-24,Grace Moore,west,Home,Curtain Panel Pair,2,39.0,Website
+FW-10881,12/3/2025,Ethan Chen,South,Electronics,Bluetooth Speaker Mini,1,39.0,Social
+FW-11006,2026-03-25,Luis Adams,Midwest,Electronics,Webcam 1080p,1,59.0,Website
+FW-11242,2026-06-30,Chloe Smith,South,Office,Keyboard Wrist Rest,2,15.0,Website
+FW-10578,2025-09-11,Lily Clark,South, Electronics,Noise-Isolating Earbuds,2,45.0,Social
+FW-10782,2025-12-09,Daniel Moore,West,Home,Picture Frame Set,4,22.0,Website
+FW-11022,2026-01-15,Luis Wilson,West,Home,Scented Candle Trio,1,28.0,Marketplace
+FW-10581,8/28/2025,Chloe Wilson,South,Kitchen,Electric Kettle,3,52.0,Website
+FW-10841,2025-11-06,Miguel Scott,South,Home,Wall Shelf Set,3,42.0,Website
+FW-10775,"Oct 15, 2025",Omar Jackson,West,Home,Storage Ottoman,one,$89.00,Marketplace
+FW-11189,2026-06-13,Paul Hall,Midwest,Electronics,Laptop Stand Aluminum,2,42.0,Website
+FW-11119,5/21/2026,Chloe Garcia,Midwest,Electronics,Noise-Isolating Earbuds,3,45.0,Marketplace
+FW-10876,2025-10-11,Sam Campbell,Midwest,Office,Monitor Arm,4,45.0,Marketplace
+FW-11012,"Feb 10, 2026",Andre Taylor,Midwest,Electronics,Webcam 1080p,2,59.0,Marketplace
+FW-10712,"Oct 27, 2025",Ethan Adams,Midwest,Electronics,Webcam 1080p,2,59.0,Marketplace
+FW-10759,12/4/2025,Dana Davis,East,Home,Storage Ottoman,3, 89.0 ,Marketplace
+FW-11103,2026-04-18,Lily Campbell,East,HOME,Picture Frame Set,1,22.0,Social
+FW-10604,9/5/2025,Chloe Young,South,Office,Filing Cabinet,4,129.0,Social
+FW-11260,2026-06-12,Amy Nguyen,Midwest,Home,Scented Candle Trio,1,28.0,Social
+FW-10913,2026-03-15,Grace Davis,South,Electronics,Webcam 1080p,1,59.0,Website
+FW-10558,2025-07-10,Victor Rivera,Midwest, Electronics,Noise-Isolating Earbuds,1,45.0,Marketplace
+FW-10506,2025-09-04,Daniel Johnson,West,Office,Filing Cabinet,1,129.0,Social
+FW-10945,"Jan 16, 2026",Jack Adams,East,Electronics,Bluetooth Speaker Mini,2,39.0,Website
+FW-11280,2026-04-01,Chloe Martinez,Midwest,Kitchen,French Press 34oz,2,36.0,Website
+FW-11259,4/9/2026,Jack Walker,Midwest,Kitchen,Electric Kettle,2,52.0,Marketplace
+FW-10818,2025-10-13,Chloe Garcia,South,Office,Keyboard Wrist Rest,1,15.0,Website
+FW-11282,2026-06-27,Chloe Lee,West,Electronics,Cable Management Kit,3,18.0,Social
+FW-11078,2/21/2026,Jack Johnson,Midwest,Kitchen,Cold Brew Pitcher  ,1,31.0,Social
