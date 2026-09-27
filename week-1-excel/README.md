@@ -14,7 +14,7 @@
 
 Build one report by Day 7.
 
-**Need data to practise on?** Use any [Kaggle dataset](https://www.kaggle.com/datasets). Or open the [Fernway sales file](../project-01-messy-sales-report/datasets/fernway-sales-messy.csv) from Project 01, and look at the mess you'll be cleaning in Stage 5.
+**Need data to practise on?** Use any [Kaggle dataset](https://www.kaggle.com/datasets). Or open the [Fernway sales file](../project-01-messy-sales-report/datasets/fernway-sales-messy.csv) from Project 01, and look at the mess you'll be cleaning in Stage 6.
 
 **Stuck?** Ask Claude or ChatGPT to explain the formula, not just fix it.
 

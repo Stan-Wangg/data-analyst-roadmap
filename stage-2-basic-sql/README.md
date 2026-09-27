@@ -4,16 +4,14 @@
 
 SQL is free. SQLite is free. PostgreSQL is free. Every dataset you'll ever need is free on Kaggle. The only thing that's never been free is your time.
 
-## The first 4 stages of SQL
+## Basic SQL, in order
 
 1. SELECT, FROM, WHERE
 2. ORDER BY, LIMIT
-3. GROUP BY, aggregates
+3. GROUP BY, HAVING, aggregates
 4. JOINs
 
-Once you can JOIN two tables, you know basic SQL.
-
-Later, when you're ready: subqueries, CASE WHEN, CTEs and window functions.
+That's most of the SQL you'll write in a normal week. Subqueries, CTEs and window functions come later, in [Stage 4](../stage-4-intermediate-sql/).
 
 ## Free teachers
 
@@ -31,4 +29,4 @@ Spend 30 minutes tonight. Write one SELECT. You just started learning SQL.
 
 ---
 
-Next: [Stage 3: Pivot Tables](../stage-3-pivot-tables/)
+Next: [Stage 3: Basic Power BI](../stage-3-basic-power-bi/)

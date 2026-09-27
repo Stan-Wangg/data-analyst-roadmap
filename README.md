@@ -30,7 +30,7 @@ This repo gives you the order. One stage at a time. Nothing to decide except the
 
 - **Free.** Every teacher and tool in here costs $0.00.
 - **In order.** Each stage builds on the one before it.
-- **Ends in proof.** Stage 5 is a real project with real messy data, not another tutorial.
+- **Ends in proof.** Stage 6 is a real project with real messy data, not another tutorial.
 
 ---
 
@@ -38,11 +38,11 @@ This repo gives you the order. One stage at a time. Nothing to decide except the
 
 ```mermaid
 flowchart LR
-    S1["1 · Excel"] --> S2["2 · Basic SQL"] --> S3["3 · Pivot Tables"]
-    S3 --> S4["4 · Power BI"] --> S5["5 · Project"] --> S6["6 · Apply"]
+    S1["1 · Excel"] --> S2["2 · Basic SQL"] --> S3["3 · Basic Power BI"]
+    S3 --> S4["4 · Intermediate SQL"] --> S5["5 · Intermediate Power BI"] --> S6["6 · Project"]
 ```
 
-You're employable by Stage 5.
+Start applying after you build one project.
 
 ### Stage 1: Excel
 
@@ -52,7 +52,7 @@ Start here. Not Python. Excel.
 2. IF, SUMIFS, COUNTIFS
 3. XLOOKUP
 4. Data cleaning
-5. Pivot Tables
+5. Pivot Tables, the one you can't skip
 6. Charts
 
 **Free teachers:** [Leila Gharani](https://www.youtube.com/@LeilaGharani) · [Kenji Explains](https://www.youtube.com/@KenjiExplains) · [MyOnlineTrainingHub](https://www.youtube.com/@MyOnlineTrainingHub)\
@@ -64,37 +64,46 @@ SQL is how you ask a database a question. Every data analyst job asks for it.
 
 1. SELECT, FROM, WHERE
 2. ORDER BY, LIMIT
-3. GROUP BY, aggregates
+3. GROUP BY, HAVING, aggregates
 4. JOINs
 
 **Free teachers:** [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst) · [Data with Baraa](https://www.youtube.com/@DataWithBaraa) · [techTFQ](https://www.youtube.com/@techTFQ) · [Ankit Bansal](https://www.youtube.com/@ankitbansal6)\
 **Practise free:** [SQLite Online](https://sqliteonline.com), in your browser. · [Full Stage 2 guide →](stage-2-basic-sql/)
 
-### Stage 3: Pivot Tables
-
-The most valuable skill you will ever learn in Excel. Also the easiest.
-
-- Group dates by month and year
-- Calculate % of column total
-- Add a calculated field
-- Refresh with one click
-- Build a Pivot Chart from the same Pivot
-
-[Full Stage 3 guide →](stage-3-pivot-tables/)
-
-### Stage 4: Power BI
+### Stage 3: Basic Power BI
 
 Turn your data into a dashboard a manager can read in 30 seconds.
 
-1. Load and clean your data
-2. Model relationships
-3. Write basic DAX measures
-4. Build one clean dashboard
+1. Load your data
+2. Build your first chart
+3. Add filters and slicers
 
 **Free teachers:** [How to Power BI](https://www.youtube.com/@HowtoPowerBI) · [Curbal](https://www.youtube.com/@CurbalEN)\
-**Free tool:** [Power BI Desktop](https://apps.microsoft.com/detail/9ntxr16hnw1t), Windows only. · [Full Stage 4 guide →](stage-4-power-bi/)
+**Free tool:** [Power BI Desktop](https://apps.microsoft.com/detail/9ntxr16hnw1t), Windows only. · [Full Stage 3 guide →](stage-3-basic-power-bi/)
 
-### Stage 5: One portfolio project
+### Stage 4: Intermediate SQL
+
+Back to SQL, one level up.
+
+1. CASE WHEN
+2. Subqueries
+3. CTEs
+4. Window functions
+
+[Full Stage 4 guide →](stage-4-intermediate-sql/)
+
+### Stage 5: Intermediate Power BI
+
+Back to Power BI, one level up. This is where dashboards start to look like real work.
+
+1. Relationships between tables
+2. Basic DAX measures
+3. Drill-through
+4. Publish to Power BI Service
+
+[Full Stage 5 guide →](stage-5-intermediate-power-bi/)
+
+### Stage 6: Build one project and put it on GitHub
 
 Skills don't get interviews. Proof does.
 
@@ -112,15 +121,9 @@ You clean it with a paper trail, find the story, and build a one-page dashboard.
 
 **Fork this repo. Do the project. Put your finished file and write-up in your fork.** That fork is your portfolio.
 
-Finished? Post it on Threads and tag [@stanleywangg](https://www.threads.com/@stanleywangg). · [Full Stage 5 guide →](stage-5-portfolio-project/)
+Then start applying. Not after you feel ready. Nobody feels ready.
 
-### Stage 6: Apply
-
-Start applying after you build one project. Not after you feel ready. Nobody feels ready.
-
-Keep building while you apply. Your second project will be better than your first.
-
-[Full Stage 6 guide →](stage-6-apply/)
+Finished? Post it on Threads and tag [@stanleywangg](https://www.threads.com/@stanleywangg). · [Full Stage 6 guide →](stage-6-portfolio-project/)
 
 ---
 
@@ -145,10 +148,10 @@ data-analyst-roadmap/
 ├── README.md
 ├── stage-1-excel/
 ├── stage-2-basic-sql/
-├── stage-3-pivot-tables/
-├── stage-4-power-bi/
-├── stage-5-portfolio-project/
-├── stage-6-apply/
+├── stage-3-basic-power-bi/
+├── stage-4-intermediate-sql/
+├── stage-5-intermediate-power-bi/
+├── stage-6-portfolio-project/
 ├── week-1-excel/
 └── project-01-messy-sales-report/
     ├── README.md                     # the step-by-step guide

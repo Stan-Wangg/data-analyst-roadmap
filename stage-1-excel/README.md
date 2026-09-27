@@ -4,7 +4,7 @@
 
 Excel is where most analyst work still lives. It's also the fastest way to learn how data thinks: rows, columns, formulas, summaries.
 
-## The 6 stages to master Excel
+## The 6 steps to master Excel
 
 1. SUM, AVERAGE, COUNT
 2. IF, SUMIFS, COUNTIFS
@@ -13,7 +13,23 @@ Excel is where most analyst work still lives. It's also the fastest way to learn
 5. Pivot Tables
 6. Charts
 
-Start with Stage 1. Brand new? Do [your first week of Excel](../week-1-excel/) instead.
+Start with step 1. Brand new? Do [your first week of Excel](../week-1-excel/) first.
+
+## Pivot Tables: the one you can't skip
+
+Pivot Tables are the most valuable skill you will ever learn in Excel. They are also the easiest.
+
+5 minutes to set up. 30 minutes to feel confident. A career to use them daily.
+
+Don't read about Pivot Tables tonight. Open a spreadsheet. Drag a field into Rows. Drag another into Values. That's it. You just did data analysis.
+
+If you can't do these 5 things, you don't really know Pivot Tables yet:
+
+- Group dates by month and year
+- Calculate % of column total
+- Add a calculated field
+- Refresh with one click
+- Build a Pivot Chart from the same Pivot
 
 ## Free teachers
 
@@ -23,7 +39,7 @@ Start with Stage 1. Brand new? Do [your first week of Excel](../week-1-excel/) i
 
 ## Free tools
 
-Excel, or [Google Sheets](https://sheets.google.com) if you don't have Excel. Both work for Stage 1, Stage 3 and Project 01.
+Excel, or [Google Sheets](https://sheets.google.com) if you don't have Excel. Both work for Stage 1 and for Project 01.
 
 ## Use AI as your tutor
 

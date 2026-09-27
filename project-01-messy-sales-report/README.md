@@ -2,7 +2,7 @@
 
 **Clean a messy sales export, find which regions and products are slipping, and build a one-page dashboard.**
 
-**Tool:** Excel or Google Sheets · **Time:** about 4 hours · **Stage:** [5 of the roadmap](../stage-5-portfolio-project/)
+**Tool:** Excel or Google Sheets · **Time:** about 4 hours · **Stage:** [6 of the roadmap](../stage-6-portfolio-project/)
 
 ---
 
