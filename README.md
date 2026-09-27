@@ -2,43 +2,19 @@
 
 **How I'd become a self-taught data analyst again in 2026. Six stages, in order, all free. Ends with one real portfolio project you can fork today.**
 
-I'm a senior data analyst.
-No tech degree. No tech background when I started.
+I'm a senior data analyst.\
+No tech degree. No tech background when I started.\
 I learned every skill for $0.00, from YouTube.
 
 This is the roadmap I wish I had on day one.
 
-> Don't start with Python.
-> Start with Excel. Learn SQL after Excel. Learn Power BI after SQL.
+> Don't start with Python.\
+> Start with Excel. Learn SQL after Excel. Learn Power BI after SQL.\
 > Use Claude or ChatGPT as your tutor.
 
 [![Website](https://img.shields.io/badge/Website-stanleywangg.com-111111?style=for-the-badge)](https://stanleywangg.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap)
 [![Threads](https://img.shields.io/badge/Threads-@stanleywangg-000000?style=for-the-badge&logo=threads)](https://www.threads.com/@stanleywangg)
 [![Newsletter](https://img.shields.io/badge/Newsletter-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://stanleywangg.substack.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap)
-
----
-
-## 🗺️ The roadmap
-
-```mermaid
-flowchart LR
-    S1["Stage 1<br/>Excel"] --> S2["Stage 2<br/>Basic SQL"]
-    S2 --> S3["Stage 3<br/>Pivot Tables"]
-    S3 --> S4["Stage 4<br/>Power BI"]
-    S4 --> S5["Stage 5<br/>One portfolio project"]
-    S5 --> S6["Stage 6<br/>Apply"]
-```
-
-| Stage | What you learn | Start here |
-|---|---|---|
-| 1 | Excel | [stage-1-excel](stage-1-excel/) · [your first week of Excel](week-1-excel/) |
-| 2 | Basic SQL | [stage-2-basic-sql](stage-2-basic-sql/) |
-| 3 | Pivot Tables | [stage-3-pivot-tables](stage-3-pivot-tables/) |
-| 4 | Power BI | [stage-4-power-bi](stage-4-power-bi/) |
-| 5 | One portfolio project | [stage-5-portfolio-project](stage-5-portfolio-project/) → [Project 01: The Messy Sales Report](project-01-messy-sales-report/) |
-| 6 | Apply | [stage-6-apply](stage-6-apply/) |
-
-You're employable by Stage 5.
 
 ---
 
@@ -58,6 +34,96 @@ This repo gives you the order. One stage at a time. Nothing to decide except the
 
 ---
 
+## 🗺️ The roadmap
+
+```mermaid
+flowchart LR
+    S1["1 · Excel"] --> S2["2 · Basic SQL"] --> S3["3 · Pivot Tables"]
+    S3 --> S4["4 · Power BI"] --> S5["5 · Project"] --> S6["6 · Apply"]
+```
+
+You're employable by Stage 5.
+
+### Stage 1: Excel
+
+Start here. Not Python. Excel.
+
+1. SUM, AVERAGE, COUNT
+2. IF, SUMIFS, COUNTIFS
+3. XLOOKUP
+4. Data cleaning
+5. Pivot Tables
+6. Charts
+
+**Free teachers:** [Leila Gharani](https://www.youtube.com/@LeilaGharani) · [Kenji Explains](https://www.youtube.com/@KenjiExplains) · [MyOnlineTrainingHub](https://www.youtube.com/@MyOnlineTrainingHub)\
+**Brand new?** Do [your first week of Excel](week-1-excel/) first. · [Full Stage 1 guide →](stage-1-excel/)
+
+### Stage 2: Basic SQL
+
+SQL is how you ask a database a question. Every data analyst job asks for it.
+
+1. SELECT, FROM, WHERE
+2. ORDER BY, LIMIT
+3. GROUP BY, aggregates
+4. JOINs
+
+**Free teachers:** [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst) · [Data with Baraa](https://www.youtube.com/@DataWithBaraa) · [techTFQ](https://www.youtube.com/@techTFQ) · [Ankit Bansal](https://www.youtube.com/@ankitbansal6)\
+**Practise free:** [SQLite Online](https://sqliteonline.com), in your browser. · [Full Stage 2 guide →](stage-2-basic-sql/)
+
+### Stage 3: Pivot Tables
+
+The most valuable skill you will ever learn in Excel. Also the easiest.
+
+- Group dates by month and year
+- Calculate % of column total
+- Add a calculated field
+- Refresh with one click
+- Build a Pivot Chart from the same Pivot
+
+[Full Stage 3 guide →](stage-3-pivot-tables/)
+
+### Stage 4: Power BI
+
+Turn your data into a dashboard a manager can read in 30 seconds.
+
+1. Load and clean your data
+2. Model relationships
+3. Write basic DAX measures
+4. Build one clean dashboard
+
+**Free teachers:** [How to Power BI](https://www.youtube.com/@HowtoPowerBI) · [Curbal](https://www.youtube.com/@CurbalEN)\
+**Free tool:** [Power BI Desktop](https://apps.microsoft.com/detail/9ntxr16hnw1t), Windows only. · [Full Stage 4 guide →](stage-4-power-bi/)
+
+### Stage 5: One portfolio project
+
+Skills don't get interviews. Proof does.
+
+**[Project 01: The Messy Sales Report](project-01-messy-sales-report/)**
+
+Your manager drops a sales export on you Monday morning.\
+Three date formats in one column. Duplicate orders. Prices stored as text.\
+"Which regions and products are slipping? Board meeting Thursday."
+
+You clean it with a paper trail, find the story, and build a one-page dashboard.
+
+- 812 rows of realistic messy data in [`datasets/`](project-01-messy-sales-report/datasets/)
+- A step-by-step guide, with AI prompts that make you understand the work, not skip it
+- Self-checks so you know your numbers are right
+
+**Fork this repo. Do the project. Put your finished file and write-up in your fork.** That fork is your portfolio.
+
+Finished? Post it on Threads and tag [@stanleywangg](https://www.threads.com/@stanleywangg). · [Full Stage 5 guide →](stage-5-portfolio-project/)
+
+### Stage 6: Apply
+
+Start applying after you build one project. Not after you feel ready. Nobody feels ready.
+
+Keep building while you apply. Your second project will be better than your first.
+
+[Full Stage 6 guide →](stage-6-apply/)
+
+---
+
 ## 🛠️ Free tools and teachers
 
 Everything is free.
@@ -69,26 +135,6 @@ Everything is free.
 | Power BI | [Power BI Desktop](https://apps.microsoft.com/detail/9ntxr16hnw1t) (free, Windows) | [How to Power BI](https://www.youtube.com/@HowtoPowerBI) · [Curbal](https://www.youtube.com/@CurbalEN) |
 | Practice data | [Kaggle datasets](https://www.kaggle.com/datasets) | |
 | Your tutor | Claude or ChatGPT (free tier is fine) | |
-
----
-
-## 🎯 Stage 5: the portfolio project
-
-**[Project 01: The Messy Sales Report](project-01-messy-sales-report/)**
-
-Your manager drops a sales export on you Monday morning.
-Three date formats in one column. Duplicate orders. Prices stored as text.
-"Which regions and products are slipping? Board meeting Thursday."
-
-You clean it with a paper trail, find the story, and build a one-page dashboard.
-
-- 812 rows of realistic messy data in [`datasets/`](project-01-messy-sales-report/datasets/)
-- A step-by-step guide, with AI prompts that make you understand the work, not skip it
-- Self-checks so you know your numbers are right
-
-**Fork this repo. Do the project. Put your finished file and write-up in your fork.** That fork is your portfolio.
-
-Finished? Post it on Threads and tag [@stanleywangg](https://www.threads.com/@stanleywangg).
 
 ---
 
@@ -134,12 +180,12 @@ If this helped, star the repo. It helps the next beginner find it.
 
 ## 📜 License
 
-Code and datasets: [MIT](LICENSE). Guides and written content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Share it, remix it, just credit Stanley Wang.
+Code and datasets: [MIT](LICENSE). Guides and written content (every `.md` file): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Share it, remix it, just credit Stanley Wang.
 
 ## 👋 About me
 
-I'm Stanley Wang, a senior data analyst.
-I started with no tech degree, no tech skills and no tech background.
+I'm Stanley Wang, a senior data analyst.\
+I started with no tech degree, no tech skills and no tech background.\
 I taught myself from free YouTube videos, one stage at a time.
 
 You're not behind. You just haven't started yet.
