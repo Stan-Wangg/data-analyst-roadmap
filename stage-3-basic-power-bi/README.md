@@ -8,7 +8,7 @@
 2. Build your first chart
 3. Add filters and slicers
 
-That's enough to build a first dashboard. Relationships, DAX and publishing come in [Stage 5](../stage-5-intermediate-power-bi/).
+That's enough to build a first dashboard. Relationships, DAX and publishing come in [Stage 5](../stage-5-intermediate-power-bi/README.md).
 
 ## Free teachers
 
@@ -25,4 +25,6 @@ Start tonight: load one [Kaggle dataset](https://www.kaggle.com/datasets), build
 
 ---
 
-Next: [Stage 4: Intermediate SQL](../stage-4-intermediate-sql/)
+Next: [Stage 4: Intermediate SQL](../stage-4-intermediate-sql/README.md)
+
+More free guides: [stanleywangg.com](https://stanleywangg.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=stage-3)

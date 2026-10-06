@@ -2,8 +2,10 @@
 
 **How I'd become a self-taught data analyst again in 2026. Six stages, in order, all free. Ends with one real portfolio project you can fork today.**
 
+By [Stanley Wang](https://stanleywangg.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=byline) · Last updated October 2026
+
 I'm a senior data analyst.\
-No tech degree. No tech background when I started.\
+No degree. No tech background when I started.\
 I learned every skill for $0.00, from YouTube.
 
 This is the roadmap I wish I had on day one.
@@ -12,9 +14,11 @@ This is the roadmap I wish I had on day one.
 > Start with Excel. Learn SQL after Excel. Learn Power BI after SQL.\
 > Use Claude or ChatGPT as your tutor.
 
-[![Website](https://img.shields.io/badge/Website-stanleywangg.com-111111?style=for-the-badge)](https://stanleywangg.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap)
+[![Website](https://img.shields.io/badge/Website-stanleywangg.com-111111?style=for-the-badge)](https://stanleywangg.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=badge)
 [![Threads](https://img.shields.io/badge/Threads-@stanleywangg-000000?style=for-the-badge&logo=threads)](https://www.threads.com/@stanleywangg)
-[![Newsletter](https://img.shields.io/badge/Newsletter-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://stanleywangg.substack.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap)
+[![Newsletter](https://img.shields.io/badge/Newsletter-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://stanleywangg.substack.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=badge)
+
+Star the repo so you can find it again. Fork it when you start the project.
 
 ---
 
@@ -30,7 +34,7 @@ This repo gives you the order. One stage at a time. Nothing to decide except the
 
 - **Free.** Every teacher and tool in here costs $0.00.
 - **In order.** Each stage builds on the one before it.
-- **Ends in proof.** Stage 6 is a real project with real messy data, not another tutorial.
+- **Ends in proof.** Stage 6 is a real project with messy data, not another tutorial.
 
 ---
 
@@ -41,6 +45,8 @@ flowchart LR
     S1["1 · Excel"] --> S2["2 · Basic SQL"] --> S3["3 · Basic Power BI"]
     S3 --> S4["4 · Intermediate SQL"] --> S5["5 · Intermediate Power BI"] --> S6["6 · Project"]
 ```
+
+**The six stages, in order:** Excel → Basic SQL → Basic Power BI → Intermediate SQL → Intermediate Power BI → one project on GitHub.
 
 Start applying after you build one project.
 
@@ -56,7 +62,7 @@ Start here. Not Python. Excel.
 6. Charts
 
 **Free teachers:** [Leila Gharani](https://www.youtube.com/@LeilaGharani) · [Kenji Explains](https://www.youtube.com/@KenjiExplains) · [MyOnlineTrainingHub](https://www.youtube.com/@MyOnlineTrainingHub)\
-**Brand new?** Do [your first week of Excel](week-1-excel/) first. · [Full Stage 1 guide →](stage-1-excel/)
+**Brand new?** Do [your first week of Excel](stage-1-excel/README.md#brand-new-your-first-week-of-excel) first. · [Full Stage 1 guide →](stage-1-excel/README.md)
 
 ### Stage 2: Basic SQL
 
@@ -68,7 +74,7 @@ SQL is how you ask a database a question. Every data analyst job asks for it.
 4. JOINs
 
 **Free teachers:** [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst) · [Data with Baraa](https://www.youtube.com/@DataWithBaraa) · [techTFQ](https://www.youtube.com/@techTFQ) · [Ankit Bansal](https://www.youtube.com/@ankitbansal6)\
-**Practise free:** [SQLite Online](https://sqliteonline.com), in your browser. · [Full Stage 2 guide →](stage-2-basic-sql/)
+**Practise free:** [SQLite Online](https://sqliteonline.com), in your browser. · [Full Stage 2 guide →](stage-2-basic-sql/README.md)
 
 ### Stage 3: Basic Power BI
 
@@ -79,7 +85,7 @@ Turn your data into a dashboard a manager can read in 30 seconds.
 3. Add filters and slicers
 
 **Free teachers:** [How to Power BI](https://www.youtube.com/@HowtoPowerBI) · [Curbal](https://www.youtube.com/@CurbalEN)\
-**Free tool:** [Power BI Desktop](https://apps.microsoft.com/detail/9ntxr16hnw1t), Windows only. · [Full Stage 3 guide →](stage-3-basic-power-bi/)
+**Free tool:** [Power BI Desktop](https://apps.microsoft.com/detail/9ntxr16hnw1t), Windows only. · [Full Stage 3 guide →](stage-3-basic-power-bi/README.md)
 
 ### Stage 4: Intermediate SQL
 
@@ -90,7 +96,7 @@ Back to SQL, one level up.
 3. CTEs
 4. Window functions
 
-[Full Stage 4 guide →](stage-4-intermediate-sql/)
+[Full Stage 4 guide →](stage-4-intermediate-sql/README.md)
 
 ### Stage 5: Intermediate Power BI
 
@@ -101,13 +107,13 @@ Back to Power BI, one level up. This is where dashboards start to look like real
 3. Drill-through
 4. Publish to Power BI Service
 
-[Full Stage 5 guide →](stage-5-intermediate-power-bi/)
+[Full Stage 5 guide →](stage-5-intermediate-power-bi/README.md)
 
 ### Stage 6: Build one project and put it on GitHub
 
 Skills don't get interviews. Proof does.
 
-**[Project 01: The Messy Sales Report](project-01-messy-sales-report/)**
+**[Project 01: The Messy Sales Report](project-01-messy-sales-report/README.md)**
 
 Your manager drops a sales export on you Monday morning.\
 Three date formats in one column. Duplicate orders. Prices stored as text.\
@@ -115,7 +121,7 @@ Three date formats in one column. Duplicate orders. Prices stored as text.\
 
 You clean it with a paper trail, find the story, and build a one-page dashboard.
 
-- 812 rows of realistic messy data in [`datasets/`](project-01-messy-sales-report/datasets/)
+- 812 rows of realistic messy data in [`fernway-sales-messy.csv`](project-01-messy-sales-report/datasets/fernway-sales-messy.csv)
 - A step-by-step guide, with AI prompts that make you understand the work, not skip it
 - Self-checks so you know your numbers are right
 
@@ -123,21 +129,43 @@ You clean it with a paper trail, find the story, and build a one-page dashboard.
 
 Then start applying. Not after you feel ready. Nobody feels ready.
 
-Finished? Post it on Threads and tag [@stanleywangg](https://www.threads.com/@stanleywangg). · [Full Stage 6 guide →](stage-6-portfolio-project/)
+Finished? Post it on Threads and tag [@stanleywangg](https://www.threads.com/@stanleywangg). · [Full Stage 6 guide →](stage-6-portfolio-project/README.md)
+
+---
+
+## ➕ Want more structure?
+
+The roadmap above is free and always will be. These two are paid:
+
+- **[The Self-Taught Data Analyst Roadmap](https://stan.store/stanleywangg/p/the-selftaught-data-analyst-roadmap?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=product-block)**: every skill in the three pillars, a test for each one so you know you've actually got it, and a tracker.
+- **[The 30-Minute Analyst](https://stan.store/stanleywangg/p/the-30minute-analyst?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=product-block)**: 30 nights, one skill each night, in order. For when you only have 30 minutes.
 
 ---
 
 ## 🛠️ Free tools and teachers
 
-Everything is free.
+Everything in this table is free.
 
 | Skill | Free tool | Free teachers on YouTube |
 |---|---|---|
-| Excel | Excel or [Google Sheets](https://sheets.google.com) | [Leila Gharani](https://www.youtube.com/@LeilaGharani) · [Kenji Explains](https://www.youtube.com/@KenjiExplains) · [MyOnlineTrainingHub](https://www.youtube.com/@MyOnlineTrainingHub) |
+| Excel | [Excel for the web](https://www.microsoft.com/microsoft-365/free-office-online-for-the-web) or [Google Sheets](https://sheets.google.com) | [Leila Gharani](https://www.youtube.com/@LeilaGharani) · [Kenji Explains](https://www.youtube.com/@KenjiExplains) · [MyOnlineTrainingHub](https://www.youtube.com/@MyOnlineTrainingHub) |
 | SQL | [SQLite Online](https://sqliteonline.com) (runs in your browser) | [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst) · [Data with Baraa](https://www.youtube.com/@DataWithBaraa) · [techTFQ](https://www.youtube.com/@techTFQ) · [Ankit Bansal](https://www.youtube.com/@ankitbansal6) |
-| Power BI | [Power BI Desktop](https://apps.microsoft.com/detail/9ntxr16hnw1t) (free, Windows) | [How to Power BI](https://www.youtube.com/@HowtoPowerBI) · [Curbal](https://www.youtube.com/@CurbalEN) |
+| Power BI | [Power BI Desktop](https://apps.microsoft.com/detail/9ntxr16hnw1t) (free, Windows). Publishing needs a work or school email. | [How to Power BI](https://www.youtube.com/@HowtoPowerBI) · [Curbal](https://www.youtube.com/@CurbalEN) |
 | Practice data | [Kaggle datasets](https://www.kaggle.com/datasets) | |
 | Your tutor | Claude or ChatGPT (free tier is fine) | |
+
+---
+
+## ❓ Questions beginners ask
+
+The answers are on my site. Free, no sign-up.
+
+- [How long it actually takes to become a data analyst](https://stanleywangg.com/how-long-to-become-a-data-analyst/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=questions)
+- [Is it too late to become a data analyst at 30, 40, or 50?](https://stanleywangg.com/too-late-to-become-a-data-analyst/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=questions)
+- [How to learn data analysis for free in 2026](https://stanleywangg.com/learn-data-analysis-free/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=questions)
+- [How to use AI to learn SQL faster](https://stanleywangg.com/use-ai-to-learn-sql/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=questions)
+- [The skills you actually need to get hired as a data analyst](https://stanleywangg.com/skills-to-get-hired-data-analyst/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=questions)
+- [The portfolio project that actually gets interviews](https://stanleywangg.com/data-analyst-portfolio-project/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=questions)
 
 ---
 
@@ -152,7 +180,7 @@ data-analyst-roadmap/
 ├── stage-4-intermediate-sql/
 ├── stage-5-intermediate-power-bi/
 ├── stage-6-portfolio-project/
-├── week-1-excel/
+├── week-1-excel/                     # moved into stage-1-excel
 └── project-01-messy-sales-report/
     ├── README.md                     # the step-by-step guide
     ├── write-up-template.md          # your case study, for your fork
@@ -162,20 +190,11 @@ data-analyst-roadmap/
 
 ---
 
-## ➕ Want more structure?
-
-The roadmap above is free and always will be. If you want me to hold your hand through it:
-
-- **[The Self-Taught Data Analyst Roadmap](https://stan.store/stanleywangg/p/the-selftaught-data-analyst-roadmap?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap)**: every skill in the three pillars, a test for each one so you know you've actually got it, and a tracker.
-- **[The 30-Minute Analyst](https://stan.store/stanleywangg/p/the-30minute-analyst?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap)**: 30 nights, one skill each night, in order. For when you only have 30 minutes.
-
----
-
 ## 🌟 Stay connected
 
-- **Website:** [stanleywangg.com](https://stanleywangg.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap), answers to the questions beginners actually ask
+- **Website:** [stanleywangg.com](https://stanleywangg.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=stay-connected)
 - **Threads:** [@stanleywangg](https://www.threads.com/@stanleywangg), daily posts, 125K+ followers
-- **Newsletter:** [stanleywangg.substack.com](https://stanleywangg.substack.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap), free, weekly
+- **Newsletter:** [stanleywangg.substack.com](https://stanleywangg.substack.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=stay-connected), free, weekly
 
 If this helped, star the repo. It helps the next beginner find it.
 
@@ -187,8 +206,8 @@ Code and datasets: [MIT](LICENSE). Guides and written content (every `.md` file)
 
 ## 👋 About me
 
-I'm Stanley Wang, a senior data analyst.\
-I started with no tech degree, no tech skills and no tech background.\
+I'm [Stanley Wang](https://stanleywangg.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=about), a senior data analyst.\
+I started with no degree, no tech skills and no tech background.\
 I taught myself from free YouTube videos, one stage at a time.
 
 You're not behind. You just haven't started yet.

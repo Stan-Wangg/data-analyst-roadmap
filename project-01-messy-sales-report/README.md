@@ -2,7 +2,7 @@
 
 **Clean a messy sales export, find which regions and products are slipping, and build a one-page dashboard.**
 
-**Tool:** Excel or Google Sheets · **Time:** about 4 hours · **Stage:** [6 of the roadmap](../stage-6-portfolio-project/)
+**Tool:** Excel or Google Sheets · **Time:** about 4 hours · **Stage:** [6 of the roadmap](../stage-6-portfolio-project/README.md)
 
 ---
 
@@ -120,16 +120,17 @@ Now the question your manager actually asked: **which regions and products are s
 <details>
 <summary><b>Check your findings</b> (open after you've built both pivots)</summary>
 
-- **South is the slipping region.** It falls every single quarter: $5,447 → $5,173 → $5,014 → $3,396. Down about 38% across the year, and the only region that declines in all four quarters.
-- **Office is the slipping category.** Not a straight line (Q4 ticks up against Q3), but the year trend is down about 15% from Q1 to Q4: $6,953 → $6,400 → $5,424 → $5,905. Reporting that honestly, "down 15% on the year, small Q4 recovery", is what separates a real analyst from a chart-maker.
+- **South is the slipping region.** It falls every single quarter: $5,447 → $5,173 → $5,014 → $3,396. Down about 38% across the year. No other region falls every quarter.
+- **Office is the slipping category.** Not a straight line (Q4 ticks up against Q3), but the year trend is down about 15% from Q1 to Q4: $6,953 → $6,400 → $5,424 → $5,905. Reporting that honestly, "down 15% from Q1 to Q4, small Q4 recovery", is what separates a real analyst from a chart-maker.
 - Your `Unknown` region holds about **$2,288**. That's the 21 blank-region rows, not a real place. Note it rather than hiding it.
+- **The total looks flat.** Revenue by quarter: $17,074 → $18,915 → $17,299 → $17,219. Q4 is about 1% above Q1. That's why the South and Office drops are easy to miss.
 
 </details>
 
 **Move 3, sanity-check before you present:**
 
 ```text
-I analyzed a year of sales data (Jul 2025 to Jun 2026) and found: the South region declined every quarter, from $5,447 to $3,396, and the Office category is down ~15% year over year with a small Q4 recovery. About 3% of revenue sits in an "Unknown" region because those cells were blank in the source. Before I present this: what could make these findings wrong or misleading? What should I check or caveat? Keep it to the 5 most important checks.
+I analyzed a year of sales data (Jul 2025 to Jun 2026) and found: the South region declined every quarter, from $5,447 to $3,396, and the Office category is down ~15% from Q1 to Q4, with a small Q4 recovery. About 3% of revenue sits in an "Unknown" region because those cells were blank in the source. Before I present this: what could make these findings wrong or misleading? What should I check or caveat? Keep it to the 5 most important checks.
 ```
 
 ---
@@ -141,7 +142,7 @@ One sheet, named `Dashboard`. Not fancy. Legible.
 - **A headline cell** in large text: the single most important finding, in one sentence.
 - **A line or column chart:** revenue by quarter for the four regions. South's decline should be visible without squinting.
 - **A column chart:** revenue by category by quarter.
-- **Three number cells:** total revenue, revenue this quarter, and this quarter vs Q1 as a percentage.
+- **Three number cells:** total revenue, Q4 revenue, and the change from Q1 to Q4 as a percentage.
 
 Then write a three-sentence summary under the headline. Draft it with AI (Move 4), then rewrite it in your own words:
 
@@ -170,4 +171,4 @@ Finished? Post it on Threads and tag [@stanleywangg](https://www.threads.com/@st
 
 ---
 
-Built by [Stanley Wang](https://stanleywangg.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap). Back to the [roadmap](../README.md).
+Built by [Stanley Wang](https://stanleywangg.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=project-01). Back to the [roadmap](../README.md).

@@ -26,4 +26,6 @@ Same as Stage 2: [SQLite Online](https://sqliteonline.com) and [Kaggle datasets]
 
 ---
 
-Next: [Stage 5: Intermediate Power BI](../stage-5-intermediate-power-bi/)
+Next: [Stage 5: Intermediate Power BI](../stage-5-intermediate-power-bi/README.md)
+
+Free guide: [How long it actually takes to become a data analyst](https://stanleywangg.com/how-long-to-become-a-data-analyst/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=stage-4)

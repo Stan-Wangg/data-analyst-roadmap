@@ -9,6 +9,8 @@
 3. Drill-through
 4. Publish to Power BI Service
 
+Step 4 needs a work or school email. Don't have one? Skip it. Share a screenshot or a PDF of your dashboard instead.
+
 ## Free teachers
 
 - [How to Power BI](https://www.youtube.com/@HowtoPowerBI)
@@ -18,8 +20,10 @@
 
 [Power BI Desktop](https://apps.microsoft.com/detail/9ntxr16hnw1t), free on Windows.
 
-Four steps. One portfolio dashboard. That's what Stage 6 is for.
+Four steps. Then one portfolio project. That's what Stage 6 is for.
 
 ---
 
-Next: [Stage 6: Build one project and put it on GitHub](../stage-6-portfolio-project/)
+Next: [Stage 6: Build one project and put it on GitHub](../stage-6-portfolio-project/README.md)
+
+More free guides: [stanleywangg.com](https://stanleywangg.com/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=stage-5)

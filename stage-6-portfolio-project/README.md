@@ -8,7 +8,7 @@ You don't need ten projects. You need one you can explain without looking at the
 
 ## Your project
 
-**[Project 01: The Messy Sales Report](../project-01-messy-sales-report/)**
+**[Project 01: The Messy Sales Report](../project-01-messy-sales-report/README.md)**
 
 A realistic messy sales export. You clean it with a paper trail, find which regions and products are slipping, and build a one-page dashboard.
 
@@ -38,3 +38,5 @@ You're not behind. You just haven't started yet.
 ---
 
 Back to the [roadmap](../README.md)
+
+For your second project: [The portfolio project that actually gets interviews](https://stanleywangg.com/data-analyst-portfolio-project/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=stage-6)

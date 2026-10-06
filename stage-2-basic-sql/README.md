@@ -11,7 +11,7 @@ SQL is free. SQLite is free. PostgreSQL is free. Every dataset you'll ever need 
 3. GROUP BY, HAVING, aggregates
 4. JOINs
 
-That's most of the SQL you'll write in a normal week. Subqueries, CTEs and window functions come later, in [Stage 4](../stage-4-intermediate-sql/).
+That's most of the SQL you'll write in a normal week. Subqueries, CTEs and window functions come later, in [Stage 4](../stage-4-intermediate-sql/README.md).
 
 ## Free teachers
 
@@ -29,4 +29,6 @@ Spend 30 minutes tonight. Write one SELECT. You just started learning SQL.
 
 ---
 
-Next: [Stage 3: Basic Power BI](../stage-3-basic-power-bi/)
+Next: [Stage 3: Basic Power BI](../stage-3-basic-power-bi/README.md)
+
+Free guide: [How to use AI to learn SQL faster](https://stanleywangg.com/use-ai-to-learn-sql/?utm_source=github&utm_medium=readme&utm_campaign=data-analyst-roadmap&utm_content=stage-2)
